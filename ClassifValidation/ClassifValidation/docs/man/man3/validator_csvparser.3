@@ -1,0 +1,94 @@
+.TH "validator.csvparser" 3 "Fri Dec 5 2014" "ClassifValidation" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+validator.csvparser \- 
+.SH SYNOPSIS
+.br
+.PP
+.SS "Classes"
+
+.in +1c
+.ti -1c
+.RI "class \fBParser\fP"
+.br
+.in -1c
+.SS "Functions"
+
+.in +1c
+.ti -1c
+.RI "def \fBmain\fP"
+.br
+.RI "\fIModule entry point\&. \fP"
+.in -1c
+.SS "Variables"
+
+.in +1c
+.ti -1c
+.RI "string \fBSEP\fP = '|'"
+.br
+.ti -1c
+.RI "string \fBEND\fP = '\\n'"
+.br
+.ti -1c
+.RI "string \fBDEFAULTMANUAL\fP = '1'"
+.br
+.ti -1c
+.RI "string \fBDEFAULTCOMMON\fP = '1'"
+.br
+.ti -1c
+.RI "string \fBDEFAULTTEMIS\fP = '0'"
+.br
+.ti -1c
+.RI "int \fBMANUAL\fP = 0"
+.br
+.ti -1c
+.RI "int \fBCOMMON\fP = 1"
+.br
+.ti -1c
+.RI "int \fBTEMISONLY\fP = 2"
+.br
+.ti -1c
+.RI "\fBINCLUDEORGS\fP = False"
+.br
+.in -1c
+.SH "Function Documentation"
+.PP 
+.SS "def validator\&.csvparser\&.main ()"
+
+.PP
+Module entry point\&. Loops through all available sub-folders (i\&.e\&. corpuses) in \fCoutputFolder\fP and compares manual annotations (\fCmanualTagsFileName\fP) with annotations coming from Temis (\fCtemisTagsFileName\fP)
+.PP
+Temis annotations are generated from xml files using \fBtemisxmlparser\fP Manual annotations are copied in the respective corpus folders using \fBmanualtagsimport\fP
+.PP
+Remember to update the \fCconfig\&.ini\fP file accordingly\&. 
+.PP
+.nf
+main
+
+.fi
+.PP
+ 
+.SH "Variable Documentation"
+.PP 
+.SS "int validator\&.csvparser\&.COMMON = 1"
+
+.SS "string validator\&.csvparser\&.DEFAULTCOMMON = '1'"
+
+.SS "string validator\&.csvparser\&.DEFAULTMANUAL = '1'"
+
+.SS "string validator\&.csvparser\&.DEFAULTTEMIS = '0'"
+
+.SS "string validator\&.csvparser\&.END = '\\n'"
+
+.SS "validator\&.csvparser\&.INCLUDEORGS = False"
+
+.SS "int validator\&.csvparser\&.MANUAL = 0"
+
+.SS "string validator\&.csvparser\&.SEP = '|'"
+
+.SS "int validator\&.csvparser\&.TEMISONLY = 2"
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for ClassifValidation from the source code\&.

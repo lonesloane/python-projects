@@ -1,0 +1,231 @@
+.TH "validator.csvparser.Parser" 3 "Fri Dec 5 2014" "ClassifValidation" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+validator.csvparser.Parser \- 
+.SH SYNOPSIS
+.br
+.PP
+.PP
+Inherits object\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "def \fB__init__\fP"
+.br
+.ti -1c
+.RI "def \fBparse_tags\fP"
+.br
+.ti -1c
+.RI "def \fBwrite_csv\fP"
+.br
+.ti -1c
+.RI "def \fBparse_manual_tags\fP"
+.br
+.ti -1c
+.RI "def \fBconcat_manual_tags\fP"
+.br
+.ti -1c
+.RI "def \fBconcat_temis_tags\fP"
+.br
+.ti -1c
+.RI "def \fBget_manualtags_forfile\fP"
+.br
+.ti -1c
+.RI "def \fBparse_temis_tags\fP"
+.br
+.in -1c
+.SS "Static Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "def \fBbuild_csv_line\fP"
+.br
+.ti -1c
+.RI "def \fBclean_manual_types\fP"
+.br
+.ti -1c
+.RI "def \fBclean_temis_types\fP"
+.br
+.ti -1c
+.RI "def \fBclean_tag\fP"
+.br
+.in -1c
+.SS "Public Attributes"
+
+.in +1c
+.ti -1c
+.RI "\fBconfig\fP"
+.br
+.ti -1c
+.RI "\fBconfig_file_path\fP"
+.br
+.ti -1c
+.RI "\fBoutput_folder\fP"
+.br
+.ti -1c
+.RI "\fBworking_folder\fP"
+.br
+.ti -1c
+.RI "\fBoutput_filename\fP"
+.br
+.ti -1c
+.RI "\fBmanualtags_filepath\fP"
+.br
+.ti -1c
+.RI "\fBtemistags_filepath\fP"
+.br
+.ti -1c
+.RI "\fBoutput_filepath\fP"
+.br
+.ti -1c
+.RI "\fBtags\fP"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+
+.PP
+.nf
+Parser:
+
+.fi
+.PP
+ 
+.SH "Constructor & Destructor Documentation"
+.PP 
+.SS "def validator\&.csvparser\&.Parser\&.__init__ (self, corpus_folder, manualtags_filename, temistags_filename)"
+
+.PP
+.nf
+__init__:
+
+.fi
+.PP
+ 
+.SH "Member Function Documentation"
+.PP 
+.SS "def validator\&.csvparser\&.Parser\&.build_csv_line (key, manual_tag, common_tag, temis_tag, manualcorrect = \fC''\fP, commoncorrect = \fC''\fP, commonincorrect = \fC''\fP, temiscorrect = \fC''\fP, temisincorrect = \fC''\fP)\fC [static]\fP"
+
+.PP
+.nf
+build_csv_line:
+
+.fi
+.PP
+ 
+.SS "def validator\&.csvparser\&.Parser\&.clean_manual_types (manual_type)\fC [static]\fP"
+
+.PP
+.nf
+clean_manual_types
+
+.fi
+.PP
+ 
+.SS "def validator\&.csvparser\&.Parser\&.clean_tag (tag)\fC [static]\fP"
+
+.PP
+.nf
+clean_tag:
+
+.fi
+.PP
+ 
+.SS "def validator\&.csvparser\&.Parser\&.clean_temis_types (temis_type)\fC [static]\fP"
+
+.PP
+.nf
+clean_temis_types
+
+.fi
+.PP
+ 
+.SS "def validator\&.csvparser\&.Parser\&.concat_manual_tags (self, tag_type, manual_tag)"
+
+.PP
+.nf
+concat_manual_tags:
+
+.fi
+.PP
+ 
+.SS "def validator\&.csvparser\&.Parser\&.concat_temis_tags (self, tag_type, temis_tag)"
+
+.PP
+.nf
+concat_temis_tags:
+
+.fi
+.PP
+ 
+.SS "def validator\&.csvparser\&.Parser\&.get_manualtags_forfile (self, filename)"
+
+.PP
+.nf
+get_manualtags_forfile:
+
+.fi
+.PP
+ 
+.SS "def validator\&.csvparser\&.Parser\&.parse_manual_tags (self)"
+
+.PP
+.nf
+parse_manual_tags:
+
+.fi
+.PP
+ 
+.SS "def validator\&.csvparser\&.Parser\&.parse_tags (self)"
+
+.PP
+.nf
+parse_tags:
+
+.fi
+.PP
+ 
+.SS "def validator\&.csvparser\&.Parser\&.parse_temis_tags (self)"
+
+.PP
+.nf
+parse_temis_tags:
+
+.fi
+.PP
+ 
+.SS "def validator\&.csvparser\&.Parser\&.write_csv (self)"
+
+.PP
+.nf
+write_csv:
+
+.fi
+.PP
+ 
+.SH "Member Data Documentation"
+.PP 
+.SS "validator\&.csvparser\&.Parser\&.config"
+
+.SS "validator\&.csvparser\&.Parser\&.config_file_path"
+
+.SS "validator\&.csvparser\&.Parser\&.manualtags_filepath"
+
+.SS "validator\&.csvparser\&.Parser\&.output_filename"
+
+.SS "validator\&.csvparser\&.Parser\&.output_filepath"
+
+.SS "validator\&.csvparser\&.Parser\&.output_folder"
+
+.SS "validator\&.csvparser\&.Parser\&.tags"
+
+.SS "validator\&.csvparser\&.Parser\&.temistags_filepath"
+
+.SS "validator\&.csvparser\&.Parser\&.working_folder"
+
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for ClassifValidation from the source code\&.

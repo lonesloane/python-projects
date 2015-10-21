@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3b0128c-e895-4958-b9e9-7f17aa75cb19" name="Default" comment="Initial commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/_Agriculture_food_and_fisheries_classif_verification 1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/_Agriculture_food_and_fisheries_classif_verification 1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/_Agriculture_food_and_fisheries_classif_verification 2.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/_Agriculture_food_and_fisheries_classif_verification 2.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/_Development_cooperation_classif_verification 1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/_Development_cooperation_classif_verification 1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/_Development_cooperation_classif_verification 2.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/_Development_cooperation_classif_verification 2.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/_Development_cooperation_classif_verification 3.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/_Development_cooperation_classif_verification 4.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/_Development_cooperation_classif_verification 5.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/_Development_cooperation_classif_verification 6.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/_Economic_policy_classif_verification 1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/_Economic_policy_classif_verification 1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/_Economic_policy_classif_verification 2.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/_Economic_policy_classif_verification 2.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/_Economic_policy_classif_verification 3.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/_Economic_policy_classif_verification 4.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/_Economic_policy_classif_verification 5.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/_Economic_policy_classif_verification 6.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/_Education_and_skills_classif_verification 1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/_Education_and_skills_classif_verification 1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/_Education_and_skills_classif_verification 2.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/_Education_and_skills_classif_verification 2.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/_Education_and_skills_classif_verification 3.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/_Education_and_skills_classif_verification 4.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/_Education_and_skills_classif_verification 5.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/_Education_and_skills_classif_verification 6.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/bc_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/bdwn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser__coll__graph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser__inherit__graph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a18d71cee2a770d2aaa638def988c809b_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a18d71cee2a770d2aaa638def988c809b_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a36f09bce044b07dca815bf224d9aa4de_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a36f09bce044b07dca815bf224d9aa4de_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a401a15b85421a52686069b70c2bc77cb_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a401a15b85421a52686069b70c2bc77cb_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a4e258b085db0778fad754a65b34ddc11_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a638cc2730bba6f2955ee79f6a1dc357f_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a638cc2730bba6f2955ee79f6a1dc357f_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a6b102086d8c1404ba8616fd9d4d5c376_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_ab1c50a4a1e036a43062741f690ee0ccb_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_ac221621ab1c6afa942b4bd7baa147fa1_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_ac221621ab1c6afa942b4bd7baa147fa1_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_acbfeca4ff7d6d619df0984433d9e48ce_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_acc7489dcaee88dec584d31c946d0f9ef_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_ad6d3cf0947a4495a97accf79dc0ad7a0_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator__coll__graph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator__inherit__graph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a10784f437d5293a9e369fa1582ab9db9_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a3697c853641032fbb4eb278284164496_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a3697c853641032fbb4eb278284164496_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a393007ceb6e4a82c37ea05077e020cdb_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a393007ceb6e4a82c37ea05077e020cdb_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a4163eb1496cce37ed7635f4b35dd90db_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a577a0ebb152bf03a82787fc095b55973_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a63b8a64dc384616ce9afc8c2ab48f472_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a7f8454a41ae769c0c9226f0d162ce5e7_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ab148266a12f3921c6cf1f9bfdc36eef2_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ab148266a12f3921c6cf1f9bfdc36eef2_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ad12d1b44da574df8fd88ecf6ea2061e5_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ad9e076c4a30ce16877eda71ca876ab9e_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ad9e076c4a30ce16877eda71ca876ab9e_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ad9fa966a26c44aac763c6f78c7b8a5e8_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_af76867db26c465d4bcd7a5a5208d53fa_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/closed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/dir_0226c7a3b8020cc9af06bdcfba6d4e1e_dep.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/doxygen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2blank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2cl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2folderclosed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2folderopen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2lastnode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2mlastnode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2mnode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2mo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2node.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2ns.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2plastnode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2pnode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2splitbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/ftv2vertline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/graph_legend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/inherit_graph_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/mag_sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1extractor__deprecated_ad75af86539154f51c1b8e0aee2a21caa_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1extractor__deprecated_ade6e31848eda8ba9ebae18d0c5afd9e3_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1manualtagsimport_a03cd10865c61d46abd97817fa35c9218_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1manualtagsimport_a3228e4531c7a429dc505379b14681e9c_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1temisxmlparser_a3979d78d2d9525cc0424a9fbf1b7f8a5_icgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1temisxmlparser_a6fb7d21de9fd92772cc2f7650e7ed992_cgraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/nav_f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/nav_g.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/nav_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/search_l.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/search_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/search_r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/sync_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/sync_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/tab_a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/tab_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/tab_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/tab_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServer/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/.pydevproject" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/.~lock._Agriculture_food_and_fisheries_classif_verification 1.xls#" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/.~lock._Agriculture_food_and_fisheries_classif_verification 1.xls#" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/Annotations.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/Annotations.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/Annotations.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/Annotations.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/Annotations.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/Annotations.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/Annotations.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/Annotations.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/Scrapper/BookReader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/.idea/ClassifValidation.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/.idea/ClassifValidation.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/DP_Search_test-scenarios.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/.idea/DataPortalSearch.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/Doxyfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Economic Outlook-datasets.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Economic Outlook-indicators.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Economic Outlook-publications.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Economic Outlook-topics.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Economic Outlook.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Education-datasets.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Education-indicators.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Education-publications.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Education-topics.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Education.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/Scrapper/IndicatorReader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/ManualTags.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/ManualTags.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/ManualTags.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/ManualTags.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/ManualTags.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/ManualTags.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/ManualTags.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/ManualTags.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Mexico-countries.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Mexico-datasets.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Mexico-publications.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/Mexico.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OlisQueryManip/.idea/OlisQueryManip.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OlisQueryManip/Utils/Olis_Query.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OlisQueryManip/Utils/Refactor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServer/.idea/WebServer.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/_Agriculture_food_and_fisheries_classif_check 2014-07-30 11_16_36.009378.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/_Agriculture_food_and_fisheries_classif_check 2014-07-30 11_16_36.009378.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/_Agriculture_food_and_fisheries_classif_check 2014-07-30 11_18_42.556089.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/_Agriculture_food_and_fisheries_classif_check 2014-07-30 11_18_42.556089.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/_Agriculture_food_and_fisheries_classif_check 2014-08-04 10_11_30.472158.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/_Development_cooperation_classif_check 2014-07-30 11_16_36.031715.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/_Development_cooperation_classif_check 2014-07-30 11_16_36.031715.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/_Development_cooperation_classif_check 2014-07-30 11_18_42.568321.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/_Development_cooperation_classif_check 2014-07-30 11_18_42.568321.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/_Development_cooperation_classif_check 2014-08-04 10_11_30.511013.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/_Economic_policy_classif_check 2014-07-30 11_16_36.020803.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/_Economic_policy_classif_check 2014-07-30 11_16_36.020803.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/_Economic_policy_classif_check 2014-07-30 11_18_42.562318.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/_Economic_policy_classif_check 2014-07-30 11_18_42.562318.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/_Economic_policy_classif_check 2014-08-04 10_11_30.492110.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/_Education_and_skills_classif_check 2014-07-30 11_16_36.039849.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/_Education_and_skills_classif_check 2014-07-30 11_16_36.039849.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/_Education_and_skills_classif_check 2014-07-30 11_18_42.574806.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/_Education_and_skills_classif_check 2014-07-30 11_18_42.574806.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/_Education_and_skills_classif_check 2014-08-04 10_11_30.534117.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/____init_____8py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/__init__.py.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/validator/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/validatortest/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/Scrapper/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OlisQueryManip/Utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/_home_stephane_Documents_LiClipse Workspace_ClassifValidation_validator_.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_10.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_a.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_b.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_c.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_d.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_e.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_e.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_f.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/all_f.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/annotated.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/annotated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/classes_0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/classes_0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/classes_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/classes_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser-members.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser__coll__graph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser__coll__graph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser__inherit__graph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser__inherit__graph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a18d71cee2a770d2aaa638def988c809b_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a18d71cee2a770d2aaa638def988c809b_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a18d71cee2a770d2aaa638def988c809b_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a18d71cee2a770d2aaa638def988c809b_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a36f09bce044b07dca815bf224d9aa4de_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a36f09bce044b07dca815bf224d9aa4de_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a36f09bce044b07dca815bf224d9aa4de_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a36f09bce044b07dca815bf224d9aa4de_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a401a15b85421a52686069b70c2bc77cb_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a401a15b85421a52686069b70c2bc77cb_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a401a15b85421a52686069b70c2bc77cb_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a401a15b85421a52686069b70c2bc77cb_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a4e258b085db0778fad754a65b34ddc11_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a4e258b085db0778fad754a65b34ddc11_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a638cc2730bba6f2955ee79f6a1dc357f_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a638cc2730bba6f2955ee79f6a1dc357f_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a638cc2730bba6f2955ee79f6a1dc357f_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a638cc2730bba6f2955ee79f6a1dc357f_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a6b102086d8c1404ba8616fd9d4d5c376_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_a6b102086d8c1404ba8616fd9d4d5c376_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_ab1c50a4a1e036a43062741f690ee0ccb_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_ab1c50a4a1e036a43062741f690ee0ccb_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_ac221621ab1c6afa942b4bd7baa147fa1_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_ac221621ab1c6afa942b4bd7baa147fa1_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_ac221621ab1c6afa942b4bd7baa147fa1_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_ac221621ab1c6afa942b4bd7baa147fa1_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_acbfeca4ff7d6d619df0984433d9e48ce_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_acbfeca4ff7d6d619df0984433d9e48ce_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_acc7489dcaee88dec584d31c946d0f9ef_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_acc7489dcaee88dec584d31c946d0f9ef_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_ad6d3cf0947a4495a97accf79dc0ad7a0_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1csvparser_1_1_parser_ad6d3cf0947a4495a97accf79dc0ad7a0_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator-members.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator__coll__graph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator__coll__graph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator__inherit__graph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator__inherit__graph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a10784f437d5293a9e369fa1582ab9db9_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a10784f437d5293a9e369fa1582ab9db9_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a3697c853641032fbb4eb278284164496_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a3697c853641032fbb4eb278284164496_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a3697c853641032fbb4eb278284164496_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a3697c853641032fbb4eb278284164496_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a393007ceb6e4a82c37ea05077e020cdb_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a393007ceb6e4a82c37ea05077e020cdb_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a393007ceb6e4a82c37ea05077e020cdb_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a393007ceb6e4a82c37ea05077e020cdb_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a4163eb1496cce37ed7635f4b35dd90db_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a4163eb1496cce37ed7635f4b35dd90db_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a577a0ebb152bf03a82787fc095b55973_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a577a0ebb152bf03a82787fc095b55973_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a63b8a64dc384616ce9afc8c2ab48f472_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a63b8a64dc384616ce9afc8c2ab48f472_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a7f8454a41ae769c0c9226f0d162ce5e7_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_a7f8454a41ae769c0c9226f0d162ce5e7_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ab148266a12f3921c6cf1f9bfdc36eef2_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ab148266a12f3921c6cf1f9bfdc36eef2_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ab148266a12f3921c6cf1f9bfdc36eef2_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ab148266a12f3921c6cf1f9bfdc36eef2_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ad12d1b44da574df8fd88ecf6ea2061e5_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ad12d1b44da574df8fd88ecf6ea2061e5_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ad9e076c4a30ce16877eda71ca876ab9e_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ad9e076c4a30ce16877eda71ca876ab9e_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ad9e076c4a30ce16877eda71ca876ab9e_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ad9e076c4a30ce16877eda71ca876ab9e_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ad9fa966a26c44aac763c6f78c7b8a5e8_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_ad9fa966a26c44aac763c6f78c7b8a5e8_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_af76867db26c465d4bcd7a5a5208d53fa_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/classvalidator_1_1excelgenerator_1_1_excel_generator_af76867db26c465d4bcd7a5a5208d53fa_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/validator/config.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/csvparser.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/csvparser.py.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/validator/csvparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/csvparser_8py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/csvparser_8py.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/validatortest/csvparsertest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/deprecated.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/deprecated.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/dir_0226c7a3b8020cc9af06bdcfba6d4e1e.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/dir_0226c7a3b8020cc9af06bdcfba6d4e1e.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/dir_0226c7a3b8020cc9af06bdcfba6d4e1e_dep.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/dir_0226c7a3b8020cc9af06bdcfba6d4e1e_dep.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Agriculture_food_and_fisheries/doc9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Development_cooperation/doc9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Economic_policy/doc9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output (copy)/_Education_and_skills/doc9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Agriculture_food_and_fisheries/doc9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Development_cooperation/doc9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Economic_policy/doc9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/Classification/output/_Education_and_skills/doc9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/doxygen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/dynsections.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServer/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/excelgenerator.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/excelgenerator.py.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/validator/excelgenerator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/excelgenerator_8py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/excelgenerator_8py.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/validatortest/excelgeneratortest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/extractor__deprecated_8py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/extractor__deprecated_8py.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/extractor_deprecated.py.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/validator/extractor_deprecated.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/files.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/files.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/files_0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/files_0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/files_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/files_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/files_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/files_2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/files_3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/files_3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/files_4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/files_4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/functions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/functions_8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/functions_func.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/functions_vars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/graph_legend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/graph_legend.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/hierarchy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/hierarchy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/SearchResults/immigration-indicators.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/inherit_graph_0.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/inherit_graph_0.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/inherits.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/Scrapper/keywords.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/manualtagsimport.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/manualtagsimport.py.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/validator/manualtagsimport.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/manualtagsimport_8py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/manualtagsimport_8py.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OlisQueryManip/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServer/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OlisQueryManip/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServer/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacecsvparser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespaceexcelgenerator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacemanualtagsimport.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacemembers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacemembers_func.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacemembers_vars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespaces.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespaces.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/namespaces_0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/namespaces_0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/namespaces_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/namespaces_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/namespaces_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/namespaces_2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/namespaces_3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/namespaces_3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/namespaces_4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/namespaces_4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacetemisxmlparser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1csvparser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1csvparser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1excelgenerator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1excelgenerator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1extractor__deprecated.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1extractor__deprecated_ad75af86539154f51c1b8e0aee2a21caa_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1extractor__deprecated_ad75af86539154f51c1b8e0aee2a21caa_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1extractor__deprecated_ade6e31848eda8ba9ebae18d0c5afd9e3_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1extractor__deprecated_ade6e31848eda8ba9ebae18d0c5afd9e3_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1manualtagsimport.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1manualtagsimport_a03cd10865c61d46abd97817fa35c9218_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1manualtagsimport_a03cd10865c61d46abd97817fa35c9218_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1manualtagsimport_a3228e4531c7a429dc505379b14681e9c_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1manualtagsimport_a3228e4531c7a429dc505379b14681e9c_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1temisxmlparser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1temisxmlparser_a3979d78d2d9525cc0424a9fbf1b7f8a5_icgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1temisxmlparser_a3979d78d2d9525cc0424a9fbf1b7f8a5_icgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1temisxmlparser_a6fb7d21de9fd92772cc2f7650e7ed992_cgraph.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/namespacevalidator_1_1temisxmlparser_a6fb7d21de9fd92772cc2f7650e7ed992_cgraph.md5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/navtree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/navtree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/navtreeindex0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/nomatches.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/pages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/pages_0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/pages_0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/python-projects.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServer/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServer/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/temisxmlparser.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/temisxmlparser.py.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/validator/temisxmlparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/temisxmlparser_8py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/temisxmlparser_8py.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/TestResults/test_run_2015-04-14_13-03-48.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/TestResults/test_run_2015-04-14_13-04-51.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/TestResults/test_run_2015-04-14_13-32-16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/TestResults/test_run_2015-04-14_13-33-44.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/TestResults/test_run_2015-04-14_13-35-38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/TestResults/test_run_2015-04-14_13-36-30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/TestResults/test_run_2015-04-14_13-36-58.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/TestResults/test_run_2015-04-17_09-23-10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/TestResults/test_run_2015-04-17_12-16-36.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/TestResults/test_run_2015-04-17_12-18-38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/TestResults/test_run_2015-04-17_13-24-47.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/AutomatedTest/test_script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/validatortest/testsuite.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/validator.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/validator_csvparser.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/validator_csvparser_Parser.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/validator_excelgenerator.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/validator_excelgenerator_ExcelGenerator.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/validator_extractor_deprecated.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/validator_manualtagsimport.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/man/man3/validator_temisxmlparser.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_a.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_b.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/docs/html/search/variables_c.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/.idea/dictionaries/varin_s.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OlisQueryManip/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServer/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassifValidation/ClassifValidation/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DPSearch/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OlisQueryManip/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServer/.idea/workspace.xml" />
+    </list>
+    <ignored path="python-projects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="python-projects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1688" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="preferences.lookFeel" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="239" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="238" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="239" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="913" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="243" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="231" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="238" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="917" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-projects" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-projects" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-projects" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-projects" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-projects" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-projects" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3b0128c-e895-4958-b9e9-7f17aa75cb19" name="Default" comment="" />
+      <created>1445431409382</created>
+      <option name="number" value="Default" />
+      <updated>1445431409382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1688" height="1030" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32932165" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WebServer/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

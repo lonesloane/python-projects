@@ -1,0 +1,50 @@
+<enrichment>
+  <annotation cartridgeName='Metadata' annotationDate='2014-07-18 06:06:50' file='[e:\Corpora\_Golden_corpora\__Test\FR-9789264026414-9806032e.pdf]'>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#PartnerEconomies'>Partner economies</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries'>OECD countries</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#France'>France</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Paris'>Paris</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Warsaw'>Warsaw</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Scotland'>Scotland</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Lyon'>Lyon</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedArabEmirates'>United Arab Emirates</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#World'>World</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#MENACountries'>MENA countries</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Dordrecht'>Dordrecht</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Indonesia'>Indonesia</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Java'>Java</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Borneo'>Borneo</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Chad'>Chad</coverage>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#ProgrammeForInternationalStudentAssessment'>Programme for International Student Assessment</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#OrganisationForEconomicCoOperationAndDevelopment'>Organisation for Economic Co-operation and Development</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InternationalTransportForum'>International Transport Forum</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#AustralianCouncilForEducationalResearch'>Australian Council for Educational Research</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#UnitedNationsEducationalScientificAndCulturalOrganization'>United Nations Educational, Scientific and Cultural Organization</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#CentreForEffectiveLearningEnvironments'>Centre for Effective Learning Environments</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#CouncilOfEurope'>Council of Europe</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#SwedishInternationalDevelopmentCooperationAgency'>Swedish International Development Cooperation Agency</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#GlobalAllianceForInformationAndCommunicationTechnologiesAndDevelopment'>Global Alliance for Information and Communication Technologies and Development</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InternationalAssociationForTheEvaluationOfEducationalAchievement'>International Association for the Evaluation of Educational Achievement</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanParliament'>European Parliament</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanCommunities'>European Communities</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanCommission'>European Commission</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanUnion'>European Union</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InclusionInternational'>Inclusion International</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#FoodAndAgricultureOrganizationOfTheUnitedNations'>Food and Agriculture Organization of the United Nations</organisation>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T790'>surveys</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T1086'>groups</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4348'>attitudes</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2784'>science and technology</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4452'>culture</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4541'>credit</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4609'>information</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T3518'>scientific culture</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T1326'>reading</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2717'>managers</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T5105'>knowledge</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T6006'>assessment</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4600'>science</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T5297'>skills</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T1397'>students</subject>
+  </annotation>
+</enrichment>

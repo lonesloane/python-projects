@@ -1,0 +1,51 @@
+<enrichment>
+  <annotation cartridgeName='Metadata' annotationDate='2014-07-18 05:57:33' file='[e:\Corpora\_Golden_corpora\__Test\EN-9789264034297-6107241e.pdf]'>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#France'>France</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom'>United Kingdom</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates'>United States</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#IEACountries'>IEA countries</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Sweden'>Sweden</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Norway'>Norway</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand'>New Zealand</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Japan'>Japan</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Italy'>Italy</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Greece'>Greece</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Finland'>Finland</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Denmark'>Denmark</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Canada'>Canada</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Austria'>Austria</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Australia'>Australia</coverage>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InternationalEnergyAgency'>International Energy Agency</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#ClimateActionNetwork'>Climate Action Network</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#OrganisationForEconomicCoOperationAndDevelopment'>Organisation for Economic Co-operation and Development</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#WomenInDevelopmentEurope'>Women in Development Europe</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanUnion'>European Union</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanCommission'>European Commission</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#GroupOfEight'>Group of Eight</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#OECDDirectorateForEmploymentLabourAndSocialAffairs'>Directorate for Employment, Labour and Social Affairs</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InternationalAtomicEnergyAgency'>International Atomic Energy Agency</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#ConcernWorldwide'>Concern Worldwide</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#StatisticalOfficeOfTheEuropeanCommunities'>Statistical Office of the European Communities</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#UnitedNations'>United Nations</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InstituteForScientificInformation'>Institute for Scientific Information</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#ConsumersInternational'>Consumers International</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#OrganizationOfThePetroleumExportingCountries'>Organization of the Petroleum Exporting Countries</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EconomicResearchForumForTheArabCountriesIranAndTurkey'>Economic Research Forum for the Arab Countries, Iran and Turkey</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#AmnestyInternational'>Amnesty International</organisation>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T227'>service industry</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T813'>gross domestic product</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2346'>passengers</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2674'>shares</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2086'>electricity</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2115'>fuels</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T1841'>manufacturing</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T1587'>freight</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4530'>transport</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2059'>energy consumption</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2058'>energy conservation</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T840'>trends</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2069'>energy efficiency</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2055'>energy</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2066'>energy utilisation</subject>
+  </annotation>
+</enrichment>

@@ -1,0 +1,53 @@
+<enrichment>
+  <annotation cartridgeName='Metadata' annotationDate='2014-07-18 06:07:29' file='[e:\Corpora\_Golden_corpora\__Test\FR-9789282113202-7504062e.pdf]'>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#France'>France</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Europe'>Europe</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Brussels'>Brussels</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Switzerland'>Switzerland</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Italy'>Italy</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Rome'>Rome</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Germany'>Germany</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#MilanProvince'>Milan</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Alps'>Alps</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#WesternEurope'>Western Europe</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#London'>London</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#GreatBritain'>Great Britain</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Mediterranean'>Mediterranean</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#CentralAndEasternEurope'>Central and Eastern Europe</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#EuropeanUnionCountries'>European Union</coverage>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanConferenceOfMinistersOfTransport'>European Conference of Ministers of Transport</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InternationalTransportForum'>International Transport Forum</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanUnion'>European Union</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanCommission'>European Commission</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InternationalUnionOfRailways'>International Union of Railways</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#OrganisationForEconomicCoOperationAndDevelopment'>Organisation for Economic Co-operation and Development</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#StrategicPartnershipWithAfrica'>Strategic Partnership with Africa</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanParliament'>European Parliament</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InterParliamentaryUnion'>Inter-Parliamentary Union</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanCommunities'>European Communities</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#ClimateActionNetwork'>Climate Action Network</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#OECDPublicAffairsAndCommunicationsDirectorate'>Public Affairs and Communications Directorate</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InternationalOrganizationForStandardization'>International Organization for Standardization</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#BerneUnion'>Berne Union</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#StatisticalOfficeOfTheEuropeanCommunities'>Statistical Office of the European Communities</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#OECDTranslationDivision'>Translation Division</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanEconomicCommunity'>European Economic Community</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanInvestmentBank'>European Investment Bank</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#DevelopmentGateway'>Development Gateway</organisation>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T922'>privatisation</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T3613'>reports</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2503'>roads</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4536'>trains</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T5544'>infrastructure</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2352'>competition</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T918'>corporations</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4995'>networks</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2414'>costs</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T913'>enterprises</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T768'>market</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2506'>railway transport</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2487'>goods</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4530'>transport</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2505'>railways</subject>
+  </annotation>
+</enrichment>

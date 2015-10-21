@@ -1,0 +1,1312 @@
+<Answer xmlns="exa:com.exalead.search.v10"
+        context="b%3D0%26hf%3D10%26l%3Den%26q%3Dmexico%26sl%3Dsl_dp%26st%3Dst_dp%26r%3Df%252Flanguage%252Fen"
+        params="q=mexico&amp;b=0&amp;hf=10&amp;l=en&amp;r=%2Bf%2Flanguage%2Fen&amp;sl=sl_dp&amp;st=st_dp" nhits="114"
+        nmatches="114" estimated="false" autocorrected="false" start="0"
+        ellql="#query{nbdocs=7136, text_relevance.expr=&quot;@term.score+#ceil(#exp(6/(1+#abs(#year(#now())-#year(document_publicationdate?=#now())))))&quot;, termscore.expr=&quot;@term.score&quot;, time_signal.expr=&quot;#ceil(#exp(6/(1+#abs(#year(#now())-#year(document_publicationdate?=#now())))))&quot;, proximity.maxDistance=16, term.score=RANK}(#and(#or{*.policy=MAX}(#or(#alphanum{w=20,source=&quot;MOT&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexico&quot;) #alphanum{source=&quot;MOT&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexico&quot;) #alphanum{source=&quot;MOT&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexico&quot;) #alphanum{source=&quot;MOT&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexico&quot;) ) #or(#alphanum{w=2,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexico&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexico&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexico&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexico&quot;) ) #or(#alphanum{w=2,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexicosecond&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexicosecond&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexicosecond&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexicosecond&quot;) ) #or(#alphanum{w=2,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexico2&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexico2&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexico2&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexico2&quot;) ) #or(#alphanum{w=2,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexico1&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexico1&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexico1&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexico1&quot;) ) #or(#alphanum{w=2,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexico3&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexico3&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexico3&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexico3&quot;) ) #or(#alphanum{w=2,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexicoquestions&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexicoquestions&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexicoquestions&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexicoquestions&quot;) ) #or(#alphanum{w=2,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexiconational&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexiconational&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexiconational&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexiconational&quot;) ) #or(#alphanum{w=2,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexicoassessment&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexicoassessment&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexicoassessment&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexicoassessment&quot;) ) #or(#alphanum{w=2,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexicoroom&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexicoroom&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexicoroom&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexicoroom&quot;) ) #or(#alphanum{w=2,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexicos&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexicos&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexicos&quot;) #alphanum{w=0.1,source=&quot;stemming&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexicos&quot;) ) #or(#alphanum{w=20,source=&quot;synonyms&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexican&quot;) #alphanum{source=&quot;synonyms&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexican&quot;) #alphanum{source=&quot;synonyms&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexican&quot;) #alphanum{source=&quot;synonyms&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexican&quot;) ) #or(#alphanum{w=20,source=&quot;synonyms&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mex&quot;) #alphanum{source=&quot;synonyms&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mex&quot;) #alphanum{source=&quot;synonyms&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mex&quot;) #alphanum{source=&quot;synonyms&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mex&quot;) ) #or(#alphanum{w=2,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;medico&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;medico&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;medico&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;medico&quot;) ) #or(#alphanum{w=2,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexiko&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexiko&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexiko&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexiko&quot;) ) #or(#alphanum{w=2,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexico2&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexico2&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexico2&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexico2&quot;) ) #or(#alphanum{w=2,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexico1&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexico1&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexico1&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexico1&quot;) ) #or(#alphanum{w=2,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexico3&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexico3&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexico3&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexico3&quot;) ) #or(#alphanum{w=2,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexic&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexic&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexic&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexic&quot;) ) #or(#alphanum{w=2,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexica&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexica&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexica&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexica&quot;) ) #or(#alphanum{w=2,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mejico&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mejico&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mejico&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mejico&quot;) ) #or(#alphanum{w=2,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;mexio&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;mexio&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;mexio&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;mexio&quot;) ) #or(#alphanum{w=2,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(title,&quot;maxico&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_description,&quot;maxico&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_ispartof_serial_description_en,&quot;maxico&quot;) #alphanum{w=0.1,source=&quot;approximate&quot;,seqid=0,nbdocs=177120,groupid=0,k=2}(document_indicator_group_title,&quot;maxico&quot;) ) ) #category(categories,&quot;Top/classproperties/language/en&quot;) #or(#alphanum{w=10000000,k=2}(document_type,&quot;countries&quot;) #alphanum{w=1000000,k=2}(document_type,&quot;topics&quot;) #alphanum{w=100000,k=2}(document_type,&quot;indicators&quot;) #alphanum{w=10000,k=2}(document_type,&quot;datasets&quot;) #alphanum{w=0.00001,k=2}(document_type,&quot;publications&quot;) ) ))">
+    <hits>
+        <Hit did="270" url="mex_en" buildGroup="bg_data_portal" buildGroupSlice="1" slice="1" score="40000564" sort="0"
+             nCollapsed="0">
+            <groups>
+                <AnswerGroup id="dataModelClass" root="Top/datamodelclass" display="dataModelClass" refinable="true">
+                    <categories>
+                        <Category path="document" fullPath="Top/datamodelclass/document" id="f/dataModelClass/document"
+                                  zapId="f/dataModelClass/document" state="0" title="document"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="language" root="Top/classproperties/language" display="language" refinable="true">
+                    <categories>
+                        <Category path="en" fullPath="Top/classproperties/language/en" id="f/language/en"
+                                  zapId="f/language/en" state="1" title="en"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="type" root="Top/classproperties/type" display="type" refinable="true">
+                    <categories>
+                        <Category path="countries" fullPath="Top/classproperties/type/countries" id="f/type/countries"
+                                  zapId="f/type/countries" state="0" title="Countries"/>
+                    </categories>
+                </AnswerGroup>
+            </groups>
+            <metas>
+                <Meta name="termscore">
+                    <MetaString name="value">40000160</MetaString>
+                </Meta>
+                <Meta name="text_relevance">
+                    <MetaString name="value">40000564</MetaString>
+                </Meta>
+                <Meta name="title">
+                    <MetaText name="value">
+                        <TextSeg highlighted="true" highlightClass="8">Mexico</TextSeg>
+                    </MetaText>
+                </Meta>
+                <Meta name="url">
+                    <MetaString name="value">mex_en</MetaString>
+                </Meta>
+                <Meta name="time_signal">
+                    <MetaString name="value">404</MetaString>
+                </Meta>
+                <Meta name="publicurl">
+                    <MetaString name="value">/mexico.htm</MetaString>
+                </Meta>
+                <Meta name="source">
+                    <MetaString name="value">dp_kappa_opt</MetaString>
+                </Meta>
+                <Meta name="sourcetype">
+                    <MetaString name="value">Kappa</MetaString>
+                </Meta>
+                <Meta name="type">
+                    <MetaString name="value">Countries</MetaString>
+                </Meta>
+                <Meta name="uri">
+                    <MetaString name="value">mex_en</MetaString>
+                </Meta>
+                <Meta name="language">
+                    <MetaString name="value">en</MetaString>
+                </Meta>
+                <Meta name="identifier">
+                    <MetaString name="value">mex_en</MetaString>
+                </Meta>
+            </metas>
+        </Hit>
+        <Hit did="2426" url="http://dx.doi.org/10.1787/data-00246-en" buildGroup="bg_data_portal" buildGroupSlice="1"
+             slice="1" score="40185" sort="0" nCollapsed="0">
+            <groups>
+                <AnswerGroup id="dataModelClass" root="Top/datamodelclass" display="dataModelClass" refinable="true">
+                    <categories>
+                        <Category path="document" fullPath="Top/datamodelclass/document" id="f/dataModelClass/document"
+                                  zapId="f/dataModelClass/document" state="0" title="document"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_fr" root="Top/classproperties/topics_fr" display="topics_fr" refinable="true">
+                    <categories>
+                        <Category path="gouvernement" fullPath="Top/classproperties/topics_fr/gouvernement"
+                                  id="f/topics_fr/gouvernement" zapId="f/topics_fr/gouvernement" state="0"
+                                  title="Gouvernement"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_en" root="Top/classproperties/topics_en" display="topics_en" refinable="true">
+                    <categories>
+                        <Category path="government" fullPath="Top/classproperties/topics_en/government"
+                                  id="f/topics_en/government" zapId="f/topics_en/government" state="0"
+                                  title="Government"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="language" root="Top/classproperties/language" display="language" refinable="true">
+                    <categories>
+                        <Category path="en" fullPath="Top/classproperties/language/en" id="f/language/en"
+                                  zapId="f/language/en" state="1" title="en"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="type" root="Top/classproperties/type" display="type" refinable="true">
+                    <categories>
+                        <Category path="datasets" fullPath="Top/classproperties/type/datasets" id="f/type/datasets"
+                                  zapId="f/type/datasets" state="0" title="Datasets"/>
+                    </categories>
+                </AnswerGroup>
+            </groups>
+            <metas>
+                <Meta name="termscore">
+                    <MetaString name="value">40164</MetaString>
+                </Meta>
+                <Meta name="text_relevance">
+                    <MetaString name="value">40185</MetaString>
+                </Meta>
+                <Meta name="title">
+                    <MetaText name="value">
+                        <TextSeg highlighted="false" highlightClass="-1">Revenue Statistics:</TextSeg>
+                        <TextSeg highlighted="true" highlightClass="8">Mexico</TextSeg>
+                    </MetaText>
+                </Meta>
+                <Meta name="url">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00246-en</MetaString>
+                </Meta>
+                <Meta name="time_signal">
+                    <MetaString name="value">21</MetaString>
+                </Meta>
+                <Meta name="description">
+                    <MetaString name="value">This dataset contains tax revenue collected by Mexico. It provides detailed
+                        tax revenues by sector (Supranational, Federal or Central Government, State or Lander
+                        Government, Local Government, and Social Security Funds) and by specific tax, such as capital
+                        gains, profits and income, property, sales, etc.
+                    </MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_description_en">
+                    <MetaString name="value">&lt;P&gt;OECD Tax Statistics are published in two volumes: The Revenue
+                        Statistics database provides detailed information on tax and other government revenues broken
+                        down by type of tax or revenue and level of government. Data are provided for the period 1975
+                        onwards for all OECD countries. Country data are normally provided in national currencies.
+                        Comparable data tables show taxation and social security contributions as a percentage of GDP.
+                        The Taxing Wages database provides information on taxes paid and benefits received by workers
+                        under 8 different income and family composition situations. Data mainly refer to recent years,
+                        but some comparative tables also present statistics of interest over the period 1979 to 2003.
+                        Data are provided for all OECD countries in national currency values.
+                        &lt;P&gt;&lt;/P&gt;</MetaString>
+                </Meta>
+                <Meta name="publicationdate">
+                    <MetaString name="value">12/10/2014 00:00:00</MetaString>
+                </Meta>
+                <Meta name="publicurl">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00246-en</MetaString>
+                </Meta>
+                <Meta name="source">
+                    <MetaString name="value">dp_v2_opt</MetaString>
+                </Meta>
+                <Meta name="sourcetype">
+                    <MetaString name="value">Discovery</MetaString>
+                </Meta>
+                <Meta name="type">
+                    <MetaString name="value">Datasets</MetaString>
+                </Meta>
+                <Meta name="uri">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00246-en</MetaString>
+                </Meta>
+                <Meta name="language">
+                    <MetaString name="value">en</MetaString>
+                </Meta>
+                <Meta name="topics_fr">
+                    <MetaString name="value">Gouvernement</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/tax-data-en</MetaString>
+                </Meta>
+                <Meta name="topics_en">
+                    <MetaString name="value">Government</MetaString>
+                </Meta>
+                <Meta name="doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00246-en</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_title_en">
+                    <MetaString name="value">OECD Tax Statistics</MetaString>
+                </Meta>
+                <Meta name="identifier">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00246-en</MetaString>
+                </Meta>
+            </metas>
+        </Hit>
+        <Hit did="2681" url="http://dx.doi.org/10.1787/data-00636-en" buildGroup="bg_data_portal" buildGroupSlice="1"
+             slice="1" score="40167" sort="0" nCollapsed="0">
+            <groups>
+                <AnswerGroup id="dataModelClass" root="Top/datamodelclass" display="dataModelClass" refinable="true">
+                    <categories>
+                        <Category path="document" fullPath="Top/datamodelclass/document" id="f/dataModelClass/document"
+                                  zapId="f/dataModelClass/document" state="0" title="document"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_fr" root="Top/classproperties/topics_fr" display="topics_fr" refinable="true">
+                    <categories>
+                        <Category path="gouvernement" fullPath="Top/classproperties/topics_fr/gouvernement"
+                                  id="f/topics_fr/gouvernement" zapId="f/topics_fr/gouvernement" state="0"
+                                  title="Gouvernement"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_en" root="Top/classproperties/topics_en" display="topics_en" refinable="true">
+                    <categories>
+                        <Category path="government" fullPath="Top/classproperties/topics_en/government"
+                                  id="f/topics_en/government" zapId="f/topics_en/government" state="0"
+                                  title="Government"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="language" root="Top/classproperties/language" display="language" refinable="true">
+                    <categories>
+                        <Category path="en" fullPath="Top/classproperties/language/en" id="f/language/en"
+                                  zapId="f/language/en" state="1" title="en"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="type" root="Top/classproperties/type" display="type" refinable="true">
+                    <categories>
+                        <Category path="datasets" fullPath="Top/classproperties/type/datasets" id="f/type/datasets"
+                                  zapId="f/type/datasets" state="0" title="Datasets"/>
+                    </categories>
+                </AnswerGroup>
+            </groups>
+            <metas>
+                <Meta name="termscore">
+                    <MetaString name="value">40164</MetaString>
+                </Meta>
+                <Meta name="text_relevance">
+                    <MetaString name="value">40167</MetaString>
+                </Meta>
+                <Meta name="title">
+                    <MetaText name="value">
+                        <TextSeg highlighted="false" highlightClass="-1">Revenue Statistics in Latin America:</TextSeg>
+                        <TextSeg highlighted="true" highlightClass="8">Mexico</TextSeg>
+                    </MetaText>
+                </Meta>
+                <Meta name="url">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00636-en</MetaString>
+                </Meta>
+                <Meta name="time_signal">
+                    <MetaString name="value">3</MetaString>
+                </Meta>
+                <Meta name="description">
+                    <MetaString name="value">This dataset contains tax revenue collected by Mexico. It provides detailed
+                        tax revenues by sector (Supranational, Federal or Central Government, State or Lander
+                        Government, Local Government, and Social Security Funds) and by specific tax, such as capital
+                        gains, profits and income, property, sales, etc.
+                    </MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_description_en">
+                    <MetaString name="value">&lt;P&gt;OECD Tax Statistics are published in two volumes: The Revenue
+                        Statistics database provides detailed information on tax and other government revenues broken
+                        down by type of tax or revenue and level of government. Data are provided for the period 1975
+                        onwards for all OECD countries. Country data are normally provided in national currencies.
+                        Comparable data tables show taxation and social security contributions as a percentage of GDP.
+                        The Taxing Wages database provides information on taxes paid and benefits received by workers
+                        under 8 different income and family composition situations. Data mainly refer to recent years,
+                        but some comparative tables also present statistics of interest over the period 1979 to 2003.
+                        Data are provided for all OECD countries in national currency values.
+                        &lt;P&gt;&lt;/P&gt;</MetaString>
+                </Meta>
+                <Meta name="publicationdate">
+                    <MetaString name="value">10/11/2012 00:00:00</MetaString>
+                </Meta>
+                <Meta name="publicurl">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00636-en</MetaString>
+                </Meta>
+                <Meta name="source">
+                    <MetaString name="value">dp_v2_opt</MetaString>
+                </Meta>
+                <Meta name="sourcetype">
+                    <MetaString name="value">Discovery</MetaString>
+                </Meta>
+                <Meta name="type">
+                    <MetaString name="value">Datasets</MetaString>
+                </Meta>
+                <Meta name="uri">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00636-en</MetaString>
+                </Meta>
+                <Meta name="language">
+                    <MetaString name="value">en</MetaString>
+                </Meta>
+                <Meta name="topics_fr">
+                    <MetaString name="value">Gouvernement</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/tax-data-en</MetaString>
+                </Meta>
+                <Meta name="topics_en">
+                    <MetaString name="value">Government</MetaString>
+                </Meta>
+                <Meta name="doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00636-en</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_title_en">
+                    <MetaString name="value">OECD Tax Statistics</MetaString>
+                </Meta>
+                <Meta name="identifier">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00636-en</MetaString>
+                </Meta>
+            </metas>
+        </Hit>
+        <Hit did="2699" url="http://dx.doi.org/10.1787/data-00590-en" buildGroup="bg_data_portal" buildGroupSlice="0"
+             slice="0" score="40025" sort="0" nCollapsed="0">
+            <groups>
+                <AnswerGroup id="dataModelClass" root="Top/datamodelclass" display="dataModelClass" refinable="true">
+                    <categories>
+                        <Category path="document" fullPath="Top/datamodelclass/document" id="f/dataModelClass/document"
+                                  zapId="f/dataModelClass/document" state="0" title="document"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_fr" root="Top/classproperties/topics_fr" display="topics_fr" refinable="true">
+                    <categories>
+                        <Category path="economie" fullPath="Top/classproperties/topics_fr/economie"
+                                  id="f/topics_fr/economie" zapId="f/topics_fr/economie" state="0" title="Économie"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_en" root="Top/classproperties/topics_en" display="topics_en" refinable="true">
+                    <categories>
+                        <Category path="economy" fullPath="Top/classproperties/topics_en/economy"
+                                  id="f/topics_en/economy" zapId="f/topics_en/economy" state="0" title="Economy"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="language" root="Top/classproperties/language" display="language" refinable="true">
+                    <categories>
+                        <Category path="en" fullPath="Top/classproperties/language/en" id="f/language/en"
+                                  zapId="f/language/en" state="1" title="en"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="type" root="Top/classproperties/type" display="type" refinable="true">
+                    <categories>
+                        <Category path="datasets" fullPath="Top/classproperties/type/datasets" id="f/type/datasets"
+                                  zapId="f/type/datasets" state="0" title="Datasets"/>
+                    </categories>
+                </AnswerGroup>
+            </groups>
+            <metas>
+                <Meta name="termscore">
+                    <MetaString name="value">40004</MetaString>
+                </Meta>
+                <Meta name="text_relevance">
+                    <MetaString name="value">40025</MetaString>
+                </Meta>
+                <Meta name="title">
+                    <MetaText name="value">
+                        <TextSeg highlighted="false" highlightClass="-1">OECD Factbook</TextSeg>
+                    </MetaText>
+                </Meta>
+                <Meta name="url">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00590-en</MetaString>
+                </Meta>
+                <Meta name="time_signal">
+                    <MetaString name="value">21</MetaString>
+                </Meta>
+                <Meta name="description">
+                    <MetaString name="value">The OECD Factbook database includes data selected from more than 40
+                        statistical databases illustrating the demographic, social, economic and environmental
+                        developments for all OECD member countries as well as Brazil, China, India, Indonesia, Russia,
+                        and South Africa. Topics covered include population and migration; production and productivity;
+                        household income, wealth and debt; globalisation, trade and foreign direct investment (FDI);
+                        prices, interest rates and exchange rates; energy and transportation; labour, employment and
+                        unemployment; science and technology including research and development (R&amp;D) and
+                        information and communications technology (ICT); environment including natural resources, water,
+                        air and climate; education resources and outcomes; general government expenditures, debt,
+                        revenues, taxes, social protection, agricultural support and foreign aid; and health status,
+                        health risks and health resources.
+                    </MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_description_en">
+                    <MetaString name="value">&lt;p&gt;The OECD Factbook Statistics database includes data selected from
+                        more than 40 statistical databases illustrating the demographic, social, economic and
+                        environmental developments for its member countries and major additional countries.&amp;nbsp;
+                        The user can easily compare each indicator for a country with those of other OECD countries.&lt;/p&gt;
+
+                        &lt;p&gt;OECD Countries covered include Australia, Austria, Belgium, Canada, Chile,Czech
+                        Republic, Denmark, Estonia, Finland, France,&amp;nbsp;Germany, Greece, Hungary, Iceland,
+                        Ireland, Israel, Italy,&amp;nbsp;Japan, Korea, Luxembourg, Mexico, Netherlands, New Zealand,
+                        Poland, Portugal, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkey, the United
+                        Kingdom, and the United States. Non-OECD countries covered include Brazil, China, India,&amp;nbsp;Indonesia,&amp;nbsp;Russia,
+                        and South Africa.&lt;/p&gt;
+
+                        &lt;p&gt;Topics covered include population and migration; production and productivity; household
+                        income, wealth and debt; globalisation, trade and foreign direct investment (FDI); prices,&amp;nbsp;interest
+                        rates and exchange rates; energy and transportation; labour, employment and unemployment;
+                        science and technology including research and development (R&amp;amp;D) and the Information and
+                        Communications&amp;nbsp;Technology (ICT) sector; environment including natural resoures,&amp;nbsp;water,and
+                        &amp;nbsp;air and climate;&amp;nbsp;education resources and outcomes; government expenditures,
+                        debt, revenues, taxes, agricultural support and foreign aid; and health status, risk and
+                        resources.&lt;/p&gt;
+                    </MetaString>
+                </Meta>
+                <Meta name="publicationdate">
+                    <MetaString name="value">05/11/2014 00:00:00</MetaString>
+                </Meta>
+                <Meta name="publicurl">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00590-en</MetaString>
+                </Meta>
+                <Meta name="source">
+                    <MetaString name="value">dp_v2_opt</MetaString>
+                </Meta>
+                <Meta name="sourcetype">
+                    <MetaString name="value">Discovery</MetaString>
+                </Meta>
+                <Meta name="type">
+                    <MetaString name="value">Datasets</MetaString>
+                </Meta>
+                <Meta name="uri">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00590-en</MetaString>
+                </Meta>
+                <Meta name="language">
+                    <MetaString name="value">en</MetaString>
+                </Meta>
+                <Meta name="topics_fr">
+                    <MetaString name="value">Economie</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/factbook-data-en</MetaString>
+                </Meta>
+                <Meta name="topics_en">
+                    <MetaString name="value">Economy</MetaString>
+                </Meta>
+                <Meta name="doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00590-en</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_title_en">
+                    <MetaString name="value">OECD Factbook Statistics</MetaString>
+                </Meta>
+                <Meta name="identifier">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00590-en</MetaString>
+                </Meta>
+            </metas>
+        </Hit>
+        <Hit did="2763" url="http://dx.doi.org/10.1787/data-00647-en" buildGroup="bg_data_portal" buildGroupSlice="0"
+             slice="0" score="40007" sort="0" nCollapsed="0">
+            <groups>
+                <AnswerGroup id="dataModelClass" root="Top/datamodelclass" display="dataModelClass" refinable="true">
+                    <categories>
+                        <Category path="document" fullPath="Top/datamodelclass/document" id="f/dataModelClass/document"
+                                  zapId="f/dataModelClass/document" state="0" title="document"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_fr" root="Top/classproperties/topics_fr" display="topics_fr" refinable="true">
+                    <categories>
+                        <Category path="economie" fullPath="Top/classproperties/topics_fr/economie"
+                                  id="f/topics_fr/economie" zapId="f/topics_fr/economie" state="0" title="Économie"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_en" root="Top/classproperties/topics_en" display="topics_en" refinable="true">
+                    <categories>
+                        <Category path="economy" fullPath="Top/classproperties/topics_en/economy"
+                                  id="f/topics_en/economy" zapId="f/topics_en/economy" state="0" title="Economy"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="language" root="Top/classproperties/language" display="language" refinable="true">
+                    <categories>
+                        <Category path="en" fullPath="Top/classproperties/language/en" id="f/language/en"
+                                  zapId="f/language/en" state="1" title="en"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="type" root="Top/classproperties/type" display="type" refinable="true">
+                    <categories>
+                        <Category path="datasets" fullPath="Top/classproperties/type/datasets" id="f/type/datasets"
+                                  zapId="f/type/datasets" state="0" title="Datasets"/>
+                    </categories>
+                </AnswerGroup>
+            </groups>
+            <metas>
+                <Meta name="termscore">
+                    <MetaString name="value">40004</MetaString>
+                </Meta>
+                <Meta name="text_relevance">
+                    <MetaString name="value">40007</MetaString>
+                </Meta>
+                <Meta name="title">
+                    <MetaText name="value">
+                        <TextSeg highlighted="false" highlightClass="-1">OECD Factbook 2013</TextSeg>
+                    </MetaText>
+                </Meta>
+                <Meta name="url">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00647-en</MetaString>
+                </Meta>
+                <Meta name="time_signal">
+                    <MetaString name="value">3</MetaString>
+                </Meta>
+                <Meta name="description">
+                    <MetaString name="value">This dataset contains more than 100 indicators which cover a wide range of
+                        areas: agriculture, economic production, education, energy, environment, foreign aid, health,
+                        industry, information and communications, international trade, labour force, population,
+                        taxation, public expenditure, and R&amp;D. This year&apos;s focus topic is gender.
+                    </MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_description_en">
+                    <MetaString name="value">&lt;p&gt;The OECD Factbook Statistics database includes data selected from
+                        more than 40 statistical databases illustrating the demographic, social, economic and
+                        environmental developments for its member countries and major additional countries.&amp;nbsp;
+                        The user can easily compare each indicator for a country with those of other OECD countries.&lt;/p&gt;
+
+                        &lt;p&gt;OECD Countries covered include Australia, Austria, Belgium, Canada, Chile,Czech
+                        Republic, Denmark, Estonia, Finland, France,&amp;nbsp;Germany, Greece, Hungary, Iceland,
+                        Ireland, Israel, Italy,&amp;nbsp;Japan, Korea, Luxembourg, Mexico, Netherlands, New Zealand,
+                        Poland, Portugal, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkey, the United
+                        Kingdom, and the United States. Non-OECD countries covered include Brazil, China, India,&amp;nbsp;Indonesia,&amp;nbsp;Russia,
+                        and South Africa.&lt;/p&gt;
+
+                        &lt;p&gt;Topics covered include population and migration; production and productivity; household
+                        income, wealth and debt; globalisation, trade and foreign direct investment (FDI); prices,&amp;nbsp;interest
+                        rates and exchange rates; energy and transportation; labour, employment and unemployment;
+                        science and technology including research and development (R&amp;amp;D) and the Information and
+                        Communications&amp;nbsp;Technology (ICT) sector; environment including natural resoures,&amp;nbsp;water,and
+                        &amp;nbsp;air and climate;&amp;nbsp;education resources and outcomes; government expenditures,
+                        debt, revenues, taxes, agricultural support and foreign aid; and health status, risk and
+                        resources.&lt;/p&gt;
+                    </MetaString>
+                </Meta>
+                <Meta name="publicationdate">
+                    <MetaString name="value">11/30/2012 00:00:00</MetaString>
+                </Meta>
+                <Meta name="publicurl">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00647-en</MetaString>
+                </Meta>
+                <Meta name="source">
+                    <MetaString name="value">dp_v2_opt</MetaString>
+                </Meta>
+                <Meta name="sourcetype">
+                    <MetaString name="value">Discovery</MetaString>
+                </Meta>
+                <Meta name="type">
+                    <MetaString name="value">Datasets</MetaString>
+                </Meta>
+                <Meta name="uri">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00647-en</MetaString>
+                </Meta>
+                <Meta name="language">
+                    <MetaString name="value">en</MetaString>
+                </Meta>
+                <Meta name="topics_fr">
+                    <MetaString name="value">Economie</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/factbook-data-en</MetaString>
+                </Meta>
+                <Meta name="topics_en">
+                    <MetaString name="value">Economy</MetaString>
+                </Meta>
+                <Meta name="doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00647-en</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_title_en">
+                    <MetaString name="value">OECD Factbook Statistics</MetaString>
+                </Meta>
+                <Meta name="identifier">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00647-en</MetaString>
+                </Meta>
+            </metas>
+        </Hit>
+        <Hit did="2697" url="http://dx.doi.org/10.1787/data-00589-en" buildGroup="bg_data_portal" buildGroupSlice="0"
+             slice="0" score="40007" sort="0" nCollapsed="0">
+            <groups>
+                <AnswerGroup id="dataModelClass" root="Top/datamodelclass" display="dataModelClass" refinable="true">
+                    <categories>
+                        <Category path="document" fullPath="Top/datamodelclass/document" id="f/dataModelClass/document"
+                                  zapId="f/dataModelClass/document" state="0" title="document"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_fr" root="Top/classproperties/topics_fr" display="topics_fr" refinable="true">
+                    <categories>
+                        <Category path="economie" fullPath="Top/classproperties/topics_fr/economie"
+                                  id="f/topics_fr/economie" zapId="f/topics_fr/economie" state="0" title="Économie"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_en" root="Top/classproperties/topics_en" display="topics_en" refinable="true">
+                    <categories>
+                        <Category path="economy" fullPath="Top/classproperties/topics_en/economy"
+                                  id="f/topics_en/economy" zapId="f/topics_en/economy" state="0" title="Economy"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="language" root="Top/classproperties/language" display="language" refinable="true">
+                    <categories>
+                        <Category path="en" fullPath="Top/classproperties/language/en" id="f/language/en"
+                                  zapId="f/language/en" state="1" title="en"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="type" root="Top/classproperties/type" display="type" refinable="true">
+                    <categories>
+                        <Category path="datasets" fullPath="Top/classproperties/type/datasets" id="f/type/datasets"
+                                  zapId="f/type/datasets" state="0" title="Datasets"/>
+                    </categories>
+                </AnswerGroup>
+            </groups>
+            <metas>
+                <Meta name="termscore">
+                    <MetaString name="value">40004</MetaString>
+                </Meta>
+                <Meta name="text_relevance">
+                    <MetaString name="value">40007</MetaString>
+                </Meta>
+                <Meta name="title">
+                    <MetaText name="value">
+                        <TextSeg highlighted="false" highlightClass="-1">OECD Factbook 2011-2012</TextSeg>
+                    </MetaText>
+                </Meta>
+                <Meta name="url">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00589-en</MetaString>
+                </Meta>
+                <Meta name="time_signal">
+                    <MetaString name="value">3</MetaString>
+                </Meta>
+                <Meta name="description">
+                    <MetaString name="value">The indicators dataset includes more than 100 indicators on population,
+                        economic production, foreign trade and investment, energy, labour force, information and
+                        communications, public finances, innovation, the environment, foreign aid, agriculture,
+                        taxation, education, health. This year, to commemorate the OECD 50th anniversary, the OECD
+                        Factbook features a focus on 50 years of OECD statistics.
+                    </MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_description_en">
+                    <MetaString name="value">&lt;p&gt;The OECD Factbook Statistics database includes data selected from
+                        more than 40 statistical databases illustrating the demographic, social, economic and
+                        environmental developments for its member countries and major additional countries.&amp;nbsp;
+                        The user can easily compare each indicator for a country with those of other OECD countries.&lt;/p&gt;
+
+                        &lt;p&gt;OECD Countries covered include Australia, Austria, Belgium, Canada, Chile,Czech
+                        Republic, Denmark, Estonia, Finland, France,&amp;nbsp;Germany, Greece, Hungary, Iceland,
+                        Ireland, Israel, Italy,&amp;nbsp;Japan, Korea, Luxembourg, Mexico, Netherlands, New Zealand,
+                        Poland, Portugal, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkey, the United
+                        Kingdom, and the United States. Non-OECD countries covered include Brazil, China, India,&amp;nbsp;Indonesia,&amp;nbsp;Russia,
+                        and South Africa.&lt;/p&gt;
+
+                        &lt;p&gt;Topics covered include population and migration; production and productivity; household
+                        income, wealth and debt; globalisation, trade and foreign direct investment (FDI); prices,&amp;nbsp;interest
+                        rates and exchange rates; energy and transportation; labour, employment and unemployment;
+                        science and technology including research and development (R&amp;amp;D) and the Information and
+                        Communications&amp;nbsp;Technology (ICT) sector; environment including natural resoures,&amp;nbsp;water,and
+                        &amp;nbsp;air and climate;&amp;nbsp;education resources and outcomes; government expenditures,
+                        debt, revenues, taxes, agricultural support and foreign aid; and health status, risk and
+                        resources.&lt;/p&gt;
+                    </MetaString>
+                </Meta>
+                <Meta name="publicationdate">
+                    <MetaString name="value">12/09/2011 00:00:00</MetaString>
+                </Meta>
+                <Meta name="publicurl">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00589-en</MetaString>
+                </Meta>
+                <Meta name="source">
+                    <MetaString name="value">dp_v2_opt</MetaString>
+                </Meta>
+                <Meta name="sourcetype">
+                    <MetaString name="value">Discovery</MetaString>
+                </Meta>
+                <Meta name="type">
+                    <MetaString name="value">Datasets</MetaString>
+                </Meta>
+                <Meta name="uri">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00589-en</MetaString>
+                </Meta>
+                <Meta name="language">
+                    <MetaString name="value">en</MetaString>
+                </Meta>
+                <Meta name="topics_fr">
+                    <MetaString name="value">Economie</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/factbook-data-en</MetaString>
+                </Meta>
+                <Meta name="topics_en">
+                    <MetaString name="value">Economy</MetaString>
+                </Meta>
+                <Meta name="doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00589-en</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_title_en">
+                    <MetaString name="value">OECD Factbook Statistics</MetaString>
+                </Meta>
+                <Meta name="identifier">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00589-en</MetaString>
+                </Meta>
+            </metas>
+        </Hit>
+        <Hit did="2573" url="http://dx.doi.org/10.1787/data-00499-en" buildGroup="bg_data_portal" buildGroupSlice="1"
+             slice="1" score="40007" sort="0" nCollapsed="0">
+            <groups>
+                <AnswerGroup id="dataModelClass" root="Top/datamodelclass" display="dataModelClass" refinable="true">
+                    <categories>
+                        <Category path="document" fullPath="Top/datamodelclass/document" id="f/dataModelClass/document"
+                                  zapId="f/dataModelClass/document" state="0" title="document"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_fr" root="Top/classproperties/topics_fr" display="topics_fr" refinable="true">
+                    <categories>
+                        <Category path="economie" fullPath="Top/classproperties/topics_fr/economie"
+                                  id="f/topics_fr/economie" zapId="f/topics_fr/economie" state="0" title="Economie"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_en" root="Top/classproperties/topics_en" display="topics_en" refinable="true">
+                    <categories>
+                        <Category path="economy" fullPath="Top/classproperties/topics_en/economy"
+                                  id="f/topics_en/economy" zapId="f/topics_en/economy" state="0" title="Economy"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="language" root="Top/classproperties/language" display="language" refinable="true">
+                    <categories>
+                        <Category path="en" fullPath="Top/classproperties/language/en" id="f/language/en"
+                                  zapId="f/language/en" state="1" title="en"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="type" root="Top/classproperties/type" display="type" refinable="true">
+                    <categories>
+                        <Category path="datasets" fullPath="Top/classproperties/type/datasets" id="f/type/datasets"
+                                  zapId="f/type/datasets" state="0" title="Datasets"/>
+                    </categories>
+                </AnswerGroup>
+            </groups>
+            <metas>
+                <Meta name="termscore">
+                    <MetaString name="value">40004</MetaString>
+                </Meta>
+                <Meta name="text_relevance">
+                    <MetaString name="value">40007</MetaString>
+                </Meta>
+                <Meta name="title">
+                    <MetaText name="value">
+                        <TextSeg highlighted="false" highlightClass="-1">OECD Factbook 2010: Financial crisis</TextSeg>
+                    </MetaText>
+                </Meta>
+                <Meta name="url">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00499-en</MetaString>
+                </Meta>
+                <Meta name="time_signal">
+                    <MetaString name="value">3</MetaString>
+                </Meta>
+                <Meta name="description">
+                    <MetaString name="value">This dataset is the OECD Factbook 2010 special focus and it brings together
+                        a range of statistics relevant for the analysis of the crisis, of its build-up and, where data
+                        are available, of its aftermath.
+                    </MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_description_en">
+                    <MetaString name="value">&lt;p&gt;The OECD Factbook Statistics database includes data selected from
+                        more than 40 statistical databases illustrating the demographic, social, economic and
+                        environmental developments for its member countries and major additional countries.&amp;nbsp;
+                        The user can easily compare each indicator for a country with those of other OECD countries.&lt;/p&gt;
+
+                        &lt;p&gt;OECD Countries covered include Australia, Austria, Belgium, Canada, Chile,Czech
+                        Republic, Denmark, Estonia, Finland, France,&amp;nbsp;Germany, Greece, Hungary, Iceland,
+                        Ireland, Israel, Italy,&amp;nbsp;Japan, Korea, Luxembourg, Mexico, Netherlands, New Zealand,
+                        Poland, Portugal, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkey, the United
+                        Kingdom, and the United States. Non-OECD countries covered include Brazil, China, India,&amp;nbsp;Indonesia,&amp;nbsp;Russia,
+                        and South Africa.&lt;/p&gt;
+
+                        &lt;p&gt;Topics covered include population and migration; production and productivity; household
+                        income, wealth and debt; globalisation, trade and foreign direct investment (FDI); prices,&amp;nbsp;interest
+                        rates and exchange rates; energy and transportation; labour, employment and unemployment;
+                        science and technology including research and development (R&amp;amp;D) and the Information and
+                        Communications&amp;nbsp;Technology (ICT) sector; environment including natural resoures,&amp;nbsp;water,and
+                        &amp;nbsp;air and climate;&amp;nbsp;education resources and outcomes; government expenditures,
+                        debt, revenues, taxes, agricultural support and foreign aid; and health status, risk and
+                        resources.&lt;/p&gt;
+                    </MetaString>
+                </Meta>
+                <Meta name="publicationdate">
+                    <MetaString name="value">07/28/2010 00:00:00</MetaString>
+                </Meta>
+                <Meta name="publicurl">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00499-en</MetaString>
+                </Meta>
+                <Meta name="source">
+                    <MetaString name="value">dp_v2_opt</MetaString>
+                </Meta>
+                <Meta name="sourcetype">
+                    <MetaString name="value">Discovery</MetaString>
+                </Meta>
+                <Meta name="type">
+                    <MetaString name="value">Datasets</MetaString>
+                </Meta>
+                <Meta name="uri">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00499-en</MetaString>
+                </Meta>
+                <Meta name="language">
+                    <MetaString name="value">en</MetaString>
+                </Meta>
+                <Meta name="topics_fr">
+                    <MetaString name="value">Economie</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/factbook-data-en</MetaString>
+                </Meta>
+                <Meta name="topics_en">
+                    <MetaString name="value">Economy</MetaString>
+                </Meta>
+                <Meta name="doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00499-en</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_title_en">
+                    <MetaString name="value">OECD Factbook Statistics</MetaString>
+                </Meta>
+                <Meta name="identifier">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00499-en</MetaString>
+                </Meta>
+            </metas>
+        </Hit>
+        <Hit did="2538" url="http://dx.doi.org/10.1787/data-00378-en" buildGroup="bg_data_portal" buildGroupSlice="1"
+             slice="1" score="40007" sort="0" nCollapsed="0">
+            <groups>
+                <AnswerGroup id="dataModelClass" root="Top/datamodelclass" display="dataModelClass" refinable="true">
+                    <categories>
+                        <Category path="document" fullPath="Top/datamodelclass/document" id="f/dataModelClass/document"
+                                  zapId="f/dataModelClass/document" state="0" title="document"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_fr" root="Top/classproperties/topics_fr" display="topics_fr" refinable="true">
+                    <categories>
+                        <Category path="economie" fullPath="Top/classproperties/topics_fr/economie"
+                                  id="f/topics_fr/economie" zapId="f/topics_fr/economie" state="0" title="Economie"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_en" root="Top/classproperties/topics_en" display="topics_en" refinable="true">
+                    <categories>
+                        <Category path="economy" fullPath="Top/classproperties/topics_en/economy"
+                                  id="f/topics_en/economy" zapId="f/topics_en/economy" state="0" title="Economy"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="language" root="Top/classproperties/language" display="language" refinable="true">
+                    <categories>
+                        <Category path="en" fullPath="Top/classproperties/language/en" id="f/language/en"
+                                  zapId="f/language/en" state="1" title="en"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="type" root="Top/classproperties/type" display="type" refinable="true">
+                    <categories>
+                        <Category path="datasets" fullPath="Top/classproperties/type/datasets" id="f/type/datasets"
+                                  zapId="f/type/datasets" state="0" title="Datasets"/>
+                    </categories>
+                </AnswerGroup>
+            </groups>
+            <metas>
+                <Meta name="termscore">
+                    <MetaString name="value">40004</MetaString>
+                </Meta>
+                <Meta name="text_relevance">
+                    <MetaString name="value">40007</MetaString>
+                </Meta>
+                <Meta name="title">
+                    <MetaText name="value">
+                        <TextSeg highlighted="false" highlightClass="-1">OECD Factbook 2010: Country</TextSeg>
+                        <TextSeg highlighted="true" highlightClass="96">Indicators</TextSeg>
+                    </MetaText>
+                </Meta>
+                <Meta name="url">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00378-en</MetaString>
+                </Meta>
+                <Meta name="time_signal">
+                    <MetaString name="value">3</MetaString>
+                </Meta>
+                <Meta name="description">
+                    <MetaString name="value">The indicators dataset includes more than 100 indicators on population,
+                        economic production, foreign trade and investment, energy, labour force, information and
+                        communications, public finances, innovation, the environment, foreign aid, agriculture,
+                        taxation, education, health and quality of life. Data are provided for all OECD member countries
+                        with area totals, and in some cases, for selected non-member economies.
+                    </MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_description_en">
+                    <MetaString name="value">&lt;p&gt;The OECD Factbook Statistics database includes data selected from
+                        more than 40 statistical databases illustrating the demographic, social, economic and
+                        environmental developments for its member countries and major additional countries.&amp;nbsp;
+                        The user can easily compare each indicator for a country with those of other OECD countries.&lt;/p&gt;
+
+                        &lt;p&gt;OECD Countries covered include Australia, Austria, Belgium, Canada, Chile,Czech
+                        Republic, Denmark, Estonia, Finland, France,&amp;nbsp;Germany, Greece, Hungary, Iceland,
+                        Ireland, Israel, Italy,&amp;nbsp;Japan, Korea, Luxembourg, Mexico, Netherlands, New Zealand,
+                        Poland, Portugal, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkey, the United
+                        Kingdom, and the United States. Non-OECD countries covered include Brazil, China, India,&amp;nbsp;Indonesia,&amp;nbsp;Russia,
+                        and South Africa.&lt;/p&gt;
+
+                        &lt;p&gt;Topics covered include population and migration; production and productivity; household
+                        income, wealth and debt; globalisation, trade and foreign direct investment (FDI); prices,&amp;nbsp;interest
+                        rates and exchange rates; energy and transportation; labour, employment and unemployment;
+                        science and technology including research and development (R&amp;amp;D) and the Information and
+                        Communications&amp;nbsp;Technology (ICT) sector; environment including natural resoures,&amp;nbsp;water,and
+                        &amp;nbsp;air and climate;&amp;nbsp;education resources and outcomes; government expenditures,
+                        debt, revenues, taxes, agricultural support and foreign aid; and health status, risk and
+                        resources.&lt;/p&gt;
+                    </MetaString>
+                </Meta>
+                <Meta name="publicationdate">
+                    <MetaString name="value">05/27/2010 00:00:00</MetaString>
+                </Meta>
+                <Meta name="publicurl">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00378-en</MetaString>
+                </Meta>
+                <Meta name="source">
+                    <MetaString name="value">dp_v2_opt</MetaString>
+                </Meta>
+                <Meta name="sourcetype">
+                    <MetaString name="value">Discovery</MetaString>
+                </Meta>
+                <Meta name="type">
+                    <MetaString name="value">Datasets</MetaString>
+                </Meta>
+                <Meta name="uri">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00378-en</MetaString>
+                </Meta>
+                <Meta name="language">
+                    <MetaString name="value">en</MetaString>
+                </Meta>
+                <Meta name="topics_fr">
+                    <MetaString name="value">Economie</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/factbook-data-en</MetaString>
+                </Meta>
+                <Meta name="topics_en">
+                    <MetaString name="value">Economy</MetaString>
+                </Meta>
+                <Meta name="doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00378-en</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_title_en">
+                    <MetaString name="value">OECD Factbook Statistics</MetaString>
+                </Meta>
+                <Meta name="identifier">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00378-en</MetaString>
+                </Meta>
+            </metas>
+        </Hit>
+        <Hit did="2534" url="http://dx.doi.org/10.1787/data-00374-en" buildGroup="bg_data_portal" buildGroupSlice="1"
+             slice="1" score="40007" sort="0" nCollapsed="0">
+            <groups>
+                <AnswerGroup id="dataModelClass" root="Top/datamodelclass" display="dataModelClass" refinable="true">
+                    <categories>
+                        <Category path="document" fullPath="Top/datamodelclass/document" id="f/dataModelClass/document"
+                                  zapId="f/dataModelClass/document" state="0" title="document"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_fr" root="Top/classproperties/topics_fr" display="topics_fr" refinable="true">
+                    <categories>
+                        <Category path="economie" fullPath="Top/classproperties/topics_fr/economie"
+                                  id="f/topics_fr/economie" zapId="f/topics_fr/economie" state="0" title="Economie"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_en" root="Top/classproperties/topics_en" display="topics_en" refinable="true">
+                    <categories>
+                        <Category path="economy" fullPath="Top/classproperties/topics_en/economy"
+                                  id="f/topics_en/economy" zapId="f/topics_en/economy" state="0" title="Economy"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="language" root="Top/classproperties/language" display="language" refinable="true">
+                    <categories>
+                        <Category path="en" fullPath="Top/classproperties/language/en" id="f/language/en"
+                                  zapId="f/language/en" state="1" title="en"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="type" root="Top/classproperties/type" display="type" refinable="true">
+                    <categories>
+                        <Category path="datasets" fullPath="Top/classproperties/type/datasets" id="f/type/datasets"
+                                  zapId="f/type/datasets" state="0" title="Datasets"/>
+                    </categories>
+                </AnswerGroup>
+            </groups>
+            <metas>
+                <Meta name="termscore">
+                    <MetaString name="value">40004</MetaString>
+                </Meta>
+                <Meta name="text_relevance">
+                    <MetaString name="value">40007</MetaString>
+                </Meta>
+                <Meta name="title">
+                    <MetaText name="value">
+                        <TextSeg highlighted="false" highlightClass="-1">OECD Factbook 2006</TextSeg>
+                    </MetaText>
+                </Meta>
+                <Meta name="url">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00374-en</MetaString>
+                </Meta>
+                <Meta name="time_signal">
+                    <MetaString name="value">3</MetaString>
+                </Meta>
+                <Meta name="description">
+                    <MetaString name="value">The OECD Factbook Statistics 2006 dataset includes more than 100 indicators
+                        on population and migration, macroeconomic trends, economic globalisation, prices, labour
+                        market, science and technology, environment, education, public policies and quality of life.
+                        Data are provided for all OECD member countries with area totals, and in some cases, for
+                        selected non-member economies. This dataset provides statistics for each of the 30 member
+                        countries and for the BRICS countries a broad selection of indicators, illustrating the
+                        demographic, social, economic and environmental developments and projections until 2020.
+                    </MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_description_en">
+                    <MetaString name="value">&lt;p&gt;The OECD Factbook Statistics database includes data selected from
+                        more than 40 statistical databases illustrating the demographic, social, economic and
+                        environmental developments for its member countries and major additional countries.&amp;nbsp;
+                        The user can easily compare each indicator for a country with those of other OECD countries.&lt;/p&gt;
+
+                        &lt;p&gt;OECD Countries covered include Australia, Austria, Belgium, Canada, Chile,Czech
+                        Republic, Denmark, Estonia, Finland, France,&amp;nbsp;Germany, Greece, Hungary, Iceland,
+                        Ireland, Israel, Italy,&amp;nbsp;Japan, Korea, Luxembourg, Mexico, Netherlands, New Zealand,
+                        Poland, Portugal, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkey, the United
+                        Kingdom, and the United States. Non-OECD countries covered include Brazil, China, India,&amp;nbsp;Indonesia,&amp;nbsp;Russia,
+                        and South Africa.&lt;/p&gt;
+
+                        &lt;p&gt;Topics covered include population and migration; production and productivity; household
+                        income, wealth and debt; globalisation, trade and foreign direct investment (FDI); prices,&amp;nbsp;interest
+                        rates and exchange rates; energy and transportation; labour, employment and unemployment;
+                        science and technology including research and development (R&amp;amp;D) and the Information and
+                        Communications&amp;nbsp;Technology (ICT) sector; environment including natural resoures,&amp;nbsp;water,and
+                        &amp;nbsp;air and climate;&amp;nbsp;education resources and outcomes; government expenditures,
+                        debt, revenues, taxes, agricultural support and foreign aid; and health status, risk and
+                        resources.&lt;/p&gt;
+                    </MetaString>
+                </Meta>
+                <Meta name="publicationdate">
+                    <MetaString name="value">05/06/2010 00:00:00</MetaString>
+                </Meta>
+                <Meta name="publicurl">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00374-en</MetaString>
+                </Meta>
+                <Meta name="source">
+                    <MetaString name="value">dp_v2_opt</MetaString>
+                </Meta>
+                <Meta name="sourcetype">
+                    <MetaString name="value">Discovery</MetaString>
+                </Meta>
+                <Meta name="type">
+                    <MetaString name="value">Datasets</MetaString>
+                </Meta>
+                <Meta name="uri">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00374-en</MetaString>
+                </Meta>
+                <Meta name="language">
+                    <MetaString name="value">en</MetaString>
+                </Meta>
+                <Meta name="topics_fr">
+                    <MetaString name="value">Economie</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/factbook-data-en</MetaString>
+                </Meta>
+                <Meta name="topics_en">
+                    <MetaString name="value">Economy</MetaString>
+                </Meta>
+                <Meta name="doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00374-en</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_title_en">
+                    <MetaString name="value">OECD Factbook Statistics</MetaString>
+                </Meta>
+                <Meta name="identifier">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00374-en</MetaString>
+                </Meta>
+            </metas>
+        </Hit>
+        <Hit did="2536" url="http://dx.doi.org/10.1787/data-00375-en" buildGroup="bg_data_portal" buildGroupSlice="1"
+             slice="1" score="40007" sort="0" nCollapsed="0">
+            <groups>
+                <AnswerGroup id="dataModelClass" root="Top/datamodelclass" display="dataModelClass" refinable="true">
+                    <categories>
+                        <Category path="document" fullPath="Top/datamodelclass/document" id="f/dataModelClass/document"
+                                  zapId="f/dataModelClass/document" state="0" title="document"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_fr" root="Top/classproperties/topics_fr" display="topics_fr" refinable="true">
+                    <categories>
+                        <Category path="economie" fullPath="Top/classproperties/topics_fr/economie"
+                                  id="f/topics_fr/economie" zapId="f/topics_fr/economie" state="0" title="Economie"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="topics_en" root="Top/classproperties/topics_en" display="topics_en" refinable="true">
+                    <categories>
+                        <Category path="economy" fullPath="Top/classproperties/topics_en/economy"
+                                  id="f/topics_en/economy" zapId="f/topics_en/economy" state="0" title="Economy"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="language" root="Top/classproperties/language" display="language" refinable="true">
+                    <categories>
+                        <Category path="en" fullPath="Top/classproperties/language/en" id="f/language/en"
+                                  zapId="f/language/en" state="1" title="en"/>
+                    </categories>
+                </AnswerGroup>
+                <AnswerGroup id="type" root="Top/classproperties/type" display="type" refinable="true">
+                    <categories>
+                        <Category path="datasets" fullPath="Top/classproperties/type/datasets" id="f/type/datasets"
+                                  zapId="f/type/datasets" state="0" title="Datasets"/>
+                    </categories>
+                </AnswerGroup>
+            </groups>
+            <metas>
+                <Meta name="termscore">
+                    <MetaString name="value">40004</MetaString>
+                </Meta>
+                <Meta name="text_relevance">
+                    <MetaString name="value">40007</MetaString>
+                </Meta>
+                <Meta name="title">
+                    <MetaText name="value">
+                        <TextSeg highlighted="false" highlightClass="-1">OECD Factbook 2007</TextSeg>
+                    </MetaText>
+                </Meta>
+                <Meta name="url">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00375-en</MetaString>
+                </Meta>
+                <Meta name="time_signal">
+                    <MetaString name="value">3</MetaString>
+                </Meta>
+                <Meta name="description">
+                    <MetaString name="value">The OECD Factbook Statistics 2007 dataset includes more than 100 indicators
+                        on population and migration, macroeconomic trends, economic globalisation, prices, labour
+                        market, science and technology, environment, education, public policies and quality life. Data
+                        are provided for all OECD member countries with area totals, and in some cases, for selected
+                        non-member economies. This dataset provides statistics for each of the 30 member countries,
+                        Slovenia and for the BRICS countries a broad selection of indicators, illustrating the
+                        demographic, social, economic and environmental developments and projections until 2033.
+                    </MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_description_en">
+                    <MetaString name="value">&lt;p&gt;The OECD Factbook Statistics database includes data selected from
+                        more than 40 statistical databases illustrating the demographic, social, economic and
+                        environmental developments for its member countries and major additional countries.&amp;nbsp;
+                        The user can easily compare each indicator for a country with those of other OECD countries.&lt;/p&gt;
+
+                        &lt;p&gt;OECD Countries covered include Australia, Austria, Belgium, Canada, Chile,Czech
+                        Republic, Denmark, Estonia, Finland, France,&amp;nbsp;Germany, Greece, Hungary, Iceland,
+                        Ireland, Israel, Italy,&amp;nbsp;Japan, Korea, Luxembourg, Mexico, Netherlands, New Zealand,
+                        Poland, Portugal, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkey, the United
+                        Kingdom, and the United States. Non-OECD countries covered include Brazil, China, India,&amp;nbsp;Indonesia,&amp;nbsp;Russia,
+                        and South Africa.&lt;/p&gt;
+
+                        &lt;p&gt;Topics covered include population and migration; production and productivity; household
+                        income, wealth and debt; globalisation, trade and foreign direct investment (FDI); prices,&amp;nbsp;interest
+                        rates and exchange rates; energy and transportation; labour, employment and unemployment;
+                        science and technology including research and development (R&amp;amp;D) and the Information and
+                        Communications&amp;nbsp;Technology (ICT) sector; environment including natural resoures,&amp;nbsp;water,and
+                        &amp;nbsp;air and climate;&amp;nbsp;education resources and outcomes; government expenditures,
+                        debt, revenues, taxes, agricultural support and foreign aid; and health status, risk and
+                        resources.&lt;/p&gt;
+                    </MetaString>
+                </Meta>
+                <Meta name="publicationdate">
+                    <MetaString name="value">05/06/2010 00:00:00</MetaString>
+                </Meta>
+                <Meta name="publicurl">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00375-en</MetaString>
+                </Meta>
+                <Meta name="source">
+                    <MetaString name="value">dp_v2_opt</MetaString>
+                </Meta>
+                <Meta name="sourcetype">
+                    <MetaString name="value">Discovery</MetaString>
+                </Meta>
+                <Meta name="type">
+                    <MetaString name="value">Datasets</MetaString>
+                </Meta>
+                <Meta name="uri">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00375-en</MetaString>
+                </Meta>
+                <Meta name="language">
+                    <MetaString name="value">en</MetaString>
+                </Meta>
+                <Meta name="topics_fr">
+                    <MetaString name="value">Economie</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/factbook-data-en</MetaString>
+                </Meta>
+                <Meta name="topics_en">
+                    <MetaString name="value">Economy</MetaString>
+                </Meta>
+                <Meta name="doi">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00375-en</MetaString>
+                </Meta>
+                <Meta name="ispartof_serial_title_en">
+                    <MetaString name="value">OECD Factbook Statistics</MetaString>
+                </Meta>
+                <Meta name="identifier">
+                    <MetaString name="value">http://dx.doi.org/10.1787/data-00375-en</MetaString>
+                </Meta>
+            </metas>
+        </Hit>
+    </hits>
+    <groups>
+        <AnswerGroup id="topics_fr" root="Top/classproperties/topics_fr" display="topics_fr" count="113" glob="6925"
+                     type="category" refinable="true" refinementPolicy="exclusive">
+            <categories>
+                <Category path="economie" fullPath="Top/classproperties/topics_fr/economie" id="f/topics_fr/economie"
+                          zapId="f/topics_fr/economie" score="0" state="0" title="Economie" count="42" glob="2237"/>
+                <Category path="gouvernement" fullPath="Top/classproperties/topics_fr/gouvernement"
+                          id="f/topics_fr/gouvernement" zapId="f/topics_fr/gouvernement" score="0" state="0"
+                          title="Gouvernement" count="32" glob="1249"/>
+                <Category path="societe" fullPath="Top/classproperties/topics_fr/societe" id="f/topics_fr/societe"
+                          zapId="f/topics_fr/societe" score="0" state="0" title="Société" count="21" glob="841"/>
+                <Category path="education" fullPath="Top/classproperties/topics_fr/education" id="f/topics_fr/education"
+                          zapId="f/topics_fr/education" score="0" state="0" title="Éducation" count="18" glob="648"/>
+                <Category path="innovation et technologie"
+                          fullPath="Top/classproperties/topics_fr/innovation et technologie"
+                          id="f/topics_fr/innovation et technologie" zapId="f/topics_fr/innovation et technologie"
+                          score="0" state="0" title="Innovation et technologie" count="10" glob="792"/>
+                <Category path="energie" fullPath="Top/classproperties/topics_fr/energie" id="f/topics_fr/energie"
+                          zapId="f/topics_fr/energie" score="0" state="0" title="Energie" count="7" glob="880"/>
+                <Category path="sante" fullPath="Top/classproperties/topics_fr/sante" id="f/topics_fr/sante"
+                          zapId="f/topics_fr/sante" score="0" state="0" title="Santé" count="7" glob="599"/>
+                <Category path="agriculture" fullPath="Top/classproperties/topics_fr/agriculture"
+                          id="f/topics_fr/agriculture" zapId="f/topics_fr/agriculture" score="0" state="0"
+                          title="Agriculture" count="6" glob="347"/>
+                <Category path="developpement" fullPath="Top/classproperties/topics_fr/developpement"
+                          id="f/topics_fr/developpement" zapId="f/topics_fr/developpement" score="0" state="0"
+                          title="Développement" count="4" glob="518"/>
+                <Category path="environnement" fullPath="Top/classproperties/topics_fr/environnement"
+                          id="f/topics_fr/environnement" zapId="f/topics_fr/environnement" score="0" state="0"
+                          title="Environnement" count="4" glob="708"/>
+                <Category path="finance" fullPath="Top/classproperties/topics_fr/finance" id="f/topics_fr/finance"
+                          zapId="f/topics_fr/finance" score="0" state="0" title="Finance" count="4" glob="547"/>
+                <Category path="emploi" fullPath="Top/classproperties/topics_fr/emploi" id="f/topics_fr/emploi"
+                          zapId="f/topics_fr/emploi" score="0" state="0" title="Emploi" count="2" glob="414"/>
+            </categories>
+            <infos>
+                <AnswerGroupInfo key="sort" value="count"/>
+                <AnswerGroupInfo key="reverse" value="false"/>
+            </infos>
+        </AnswerGroup>
+        <AnswerGroup id="topics_en" root="Top/classproperties/topics_en" display="topics_en" count="113" glob="6925"
+                     type="category" refinable="true" refinementPolicy="exclusive">
+            <categories>
+                <Category path="economy" fullPath="Top/classproperties/topics_en/economy" id="f/topics_en/economy"
+                          zapId="f/topics_en/economy" score="0" state="0" title="Economy" count="42" glob="2237"/>
+                <Category path="government" fullPath="Top/classproperties/topics_en/government"
+                          id="f/topics_en/government" zapId="f/topics_en/government" score="0" state="0"
+                          title="Government" count="32" glob="1249"/>
+                <Category path="society" fullPath="Top/classproperties/topics_en/society" id="f/topics_en/society"
+                          zapId="f/topics_en/society" score="0" state="0" title="Society" count="21" glob="841"/>
+                <Category path="education" fullPath="Top/classproperties/topics_en/education" id="f/topics_en/education"
+                          zapId="f/topics_en/education" score="0" state="0" title="Education" count="18" glob="648"/>
+                <Category path="innovation and technology"
+                          fullPath="Top/classproperties/topics_en/innovation and technology"
+                          id="f/topics_en/innovation and technology" zapId="f/topics_en/innovation and technology"
+                          score="0" state="0" title="Innovation and Technology" count="10" glob="793"/>
+                <Category path="energy" fullPath="Top/classproperties/topics_en/energy" id="f/topics_en/energy"
+                          zapId="f/topics_en/energy" score="0" state="0" title="Energy" count="7" glob="880"/>
+                <Category path="health" fullPath="Top/classproperties/topics_en/health" id="f/topics_en/health"
+                          zapId="f/topics_en/health" score="0" state="0" title="Health" count="7" glob="599"/>
+                <Category path="agriculture" fullPath="Top/classproperties/topics_en/agriculture"
+                          id="f/topics_en/agriculture" zapId="f/topics_en/agriculture" score="0" state="0"
+                          title="Agriculture" count="6" glob="347"/>
+                <Category path="development" fullPath="Top/classproperties/topics_en/development"
+                          id="f/topics_en/development" zapId="f/topics_en/development" score="0" state="0"
+                          title="Development" count="4" glob="518"/>
+                <Category path="environment" fullPath="Top/classproperties/topics_en/environment"
+                          id="f/topics_en/environment" zapId="f/topics_en/environment" score="0" state="0"
+                          title="Environment" count="4" glob="708"/>
+                <Category path="finance" fullPath="Top/classproperties/topics_en/finance" id="f/topics_en/finance"
+                          zapId="f/topics_en/finance" score="0" state="0" title="Finance" count="4" glob="547"/>
+                <Category path="jobs" fullPath="Top/classproperties/topics_en/jobs" id="f/topics_en/jobs"
+                          zapId="f/topics_en/jobs" score="0" state="0" title="Jobs" count="2" glob="414"/>
+            </categories>
+            <infos>
+                <AnswerGroupInfo key="sort" value="count"/>
+                <AnswerGroupInfo key="reverse" value="false"/>
+            </infos>
+        </AnswerGroup>
+        <AnswerGroup id="dataModelClassHierarchy" root="Top/datamodelclasshierarchy" display="dataModelClassHierarchy"
+                     count="114" glob="7255" type="category" refinable="true" refinementPolicy="exclusive">
+            <categories>
+                <Category path="document" fullPath="Top/datamodelclasshierarchy/document"
+                          id="f/dataModelClassHierarchy/document" zapId="f/dataModelClassHierarchy/document" score="0"
+                          state="0" title="document" count="114" glob="7255"/>
+            </categories>
+            <infos>
+                <AnswerGroupInfo key="sort" value="count"/>
+                <AnswerGroupInfo key="reverse" value="false"/>
+            </infos>
+        </AnswerGroup>
+        <AnswerGroup id="language" root="Top/classproperties/language" display="language" count="114" glob="7255"
+                     type="category" refinable="true" refinementPolicy="exclusive">
+            <categories>
+                <Category path="en" fullPath="Top/classproperties/language/en" id="f/language/en" zapId="f/language/en"
+                          score="0" state="1" title="en" count="114" glob="4325"/>
+                <Category path="fr" fullPath="Top/classproperties/language/fr" id="f/language/fr" zapId="f/language/fr"
+                          score="0" state="0" title="fr" count="6" glob="2554"/>
+            </categories>
+            <infos>
+                <AnswerGroupInfo key="sort" value="count"/>
+                <AnswerGroupInfo key="reverse" value="false"/>
+            </infos>
+        </AnswerGroup>
+        <AnswerGroup id="type" root="Top/classproperties/type" display="type" count="114" glob="7255" type="category"
+                     refinable="true" refinementPolicy="exclusive">
+            <categories>
+                <Category path="publications" fullPath="Top/classproperties/type/publications" id="f/type/publications"
+                          zapId="f/type/publications" score="0" state="0" title="Publications" count="101" glob="5698">
+                    <Category path="books" fullPath="Top/classproperties/type/publications/books"
+                              id="f/type/publications/books" zapId="f/type/publications/books" score="0" state="0"
+                              title="Books" count="96" glob="5317"/>
+                    <Category path="issues" fullPath="Top/classproperties/type/publications/issues"
+                              id="f/type/publications/issues" zapId="f/type/publications/issues" score="0" state="0"
+                              title="Issues" count="5" glob="381"/>
+                </Category>
+                <Category path="datasets" fullPath="Top/classproperties/type/datasets" id="f/type/datasets"
+                          zapId="f/type/datasets" score="0" state="0" title="Datasets" count="12" glob="977"/>
+                <Category path="countries" fullPath="Top/classproperties/type/countries" id="f/type/countries"
+                          zapId="f/type/countries" score="0" state="0" title="Countries" count="1" glob="44"/>
+            </categories>
+            <infos>
+                <AnswerGroupInfo key="sort" value="count"/>
+                <AnswerGroupInfo key="reverse" value="false"/>
+            </infos>
+        </AnswerGroup>
+    </groups>
+    <Stats status="ok" queueTime="0" queryProcessingElapsedTime="70088" queryProcessingCPUTime="0"
+           queryExecElapsedTime="27246" queryExecIndexCPUTime="0" queryExecSearcherCPUTime="0"
+           synthesisAndFullHitsElapsedTime="36030" synthesisIndexCPUTime="0" synthesisSearcherCPUTime="0"
+           fullHitsIndexCPUTime="0" fullHitsSearcherCPUTime="0" totalProcessingTime="63414"/>
+    <slicesInfo>
+        <SliceInfo slice="1" internalGeneration="1" lastCommit="1428504877742" lastJobId="645804"/>
+        <SliceInfo slice="0" internalGeneration="1" lastCommit="1428504878242" lastJobId="645804"/>
+    </slicesInfo>
+</Answer>

@@ -1,0 +1,57 @@
+.TH "validator.temisxmlparser" 3 "Fri Dec 5 2014" "ClassifValidation" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+validator.temisxmlparser \- 
+.SH SYNOPSIS
+.br
+.PP
+.SS "Functions"
+
+.in +1c
+.ti -1c
+.RI "def \fBconvert_classif_xml_to_csv\fP"
+.br
+.RI "\fI\fBRead the xml file, extract the file name and the annotations and append this information to the csv file of the corresponding corpus\&.\fP \fP"
+.ti -1c
+.RI "def \fBmain\fP"
+.br
+.RI "\fI\fBRuns the extraction of the classification's annotations\fP \fP"
+.in -1c
+.SH "Function Documentation"
+.PP 
+.SS "def validator\&.temisxmlparser\&.convert_classif_xml_to_csv (output_folder, xmlfile)"
+
+.PP
+\fBRead the xml file, extract the file name and the annotations and append this information to the csv file of the corresponding corpus\&.\fP 
+.PP
+\fBParameters:\fP
+.RS 4
+\fIoutput_folder\fP The folder where the output files are stored 
+.br
+\fIxmlfile\fP name of the xml file containing the annotations 
+.RE
+.PP
+
+.SS "def validator\&.temisxmlparser\&.main ()"
+
+.PP
+\fBRuns the extraction of the classification's annotations\fP Change the value of the parameter \fCoutputFolder\fP in the configuration file \fCconfig\&.ini\fP to point to the folder where the annotations are stored
+.PP
+Upon extraction, the resulting annotations are stored in csv files which are stored in dedicated folders based on the corpus identified in the annotation xml: 
+.PP
+.nf
+<enrichment>
+    <annotation cartridgeName='Metadata' file='[E:\Input\_Golden_corpora\_Agriculture_food_and_fisheries\Official_documents\EN_AGR-CA-M-2005-2_JT00187347\&.pdf]'>
+      <coverage uri='http://kim\&.oecd\&.org/Taxonomy/GeographicalAreas#Paris'>Paris</coverage>
+      <coverage uri='http://kim\&.oecd\&.org/Taxonomy/GeographicalAreas#Pretoria'>Pretoria</coverage>
+      \&.\&.\&.
+
+.fi
+.PP
+ Here, the corpus is \fC_Agriculture_food_and_fisheries\fP
+.PP
+One sub-folder per identified corpus is created\&. 
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for ClassifValidation from the source code\&.

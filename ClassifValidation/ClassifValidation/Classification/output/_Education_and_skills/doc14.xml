@@ -1,0 +1,46 @@
+<enrichment>
+  <annotation cartridgeName='Metadata' annotationDate='2014-07-18 06:05:45' file='[e:\Corpora\_Golden_corpora\__Test\EN-9789264197190-9302011e.pdf]'>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#France'>France</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Paris'>Paris</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#NonOECDCountries'>Non-OECD countries</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries'>OECD countries</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#DevelopingCountries'>Developing countries</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Ottawa'>Ottawa</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#World'>World</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthEastEurope'>Southeast Europe</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates'>United States</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDArea'>OECD area</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#ContinentalEurope'>Continental Europe</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovakia'>Slovak Republic</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#CzechRepublic'>Czech Republic</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom'>United Kingdom</coverage>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#OrganisationForEconomicCoOperationAndDevelopment'>Organisation for Economic Co-operation and Development</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#ConcernWorldwide'>Concern Worldwide</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#ClimateActionNetwork'>Climate Action Network</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#CouncilOfEurope'>Council of Europe</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanCommunities'>European Communities</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanParliament'>European Parliament</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InternationalTelecommunicationUnion'>International Telecommunication Union</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanCommission'>European Commission</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#UnitedNations'>United Nations</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#BRIDGE'>BRIDGE</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InclusionInternational'>Inclusion International</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#CommonFundForCommodies'>Common Fund for Commodies</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#WomenInDevelopmentEurope'>Women in Development Europe</organisation>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4444'>legislation</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T6140'>use of data</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4609'>information</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2672'>interest</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T1086'>groups</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4995'>networks</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T113'>law</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T3704'>data protection</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T3528'>data collecting</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T3705'>privacy</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T3548'>data processing</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4893'>guidelines</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T3703'>privacy protection</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T6277'>personal data</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4137'>transnational data flow</subject>
+  </annotation>
+</enrichment>

@@ -1,0 +1,54 @@
+<enrichment>
+  <annotation cartridgeName='Metadata' annotationDate='2014-07-18 06:02:43' file='[e:\Corpora\_Golden_corpora\__Test\EN-9789264111233-5111051e.pdf]'>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Paris'>Paris</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates'>United States</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom'>United Kingdom</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovakia'>Slovak Republic</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand'>New Zealand</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthKorea'>Republic of Korea</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#CzechRepublic'>Czech Republic</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries'>OECD countries</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Rome'>Rome</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#DevelopingCountries'>Developing countries</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#DevelopedCountries'>Developed countries</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#World'>World</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#EU15Countries'>EU15 countries</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#AfricaSouthOfSahara'>Africa South of Sahara</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#EuropeanUnionCountries'>European Union</coverage>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#OrganisationForEconomicCoOperationAndDevelopment'>Organisation for Economic Co-operation and Development</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#ClimateActionNetwork'>Climate Action Network</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#GlobalResearchAllianceOnAgriculturalGreenhouseGases'>Global Research Alliance on Agricultural Greenhouse Gases</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#ConsultativeGroupOnInternationalAgriculturalResearch'>Consultative Group on International Agricultural Research</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#FoodAndAgricultureOrganizationOfTheUnitedNations'>Food and Agriculture Organization of the United Nations</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#ConcernWorldwide'>Concern Worldwide</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#WomenInDevelopmentEurope'>Women in Development Europe</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanUnion'>European Union</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#CentreDeCoopérationInternationaleEnRechercheAgronomiquePourLeDéveloppement'>Centre de Coopération internationale en Recherche agronomique pour le Développement</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#WorldTradeOrganization'>World Trade Organization</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#UnitedNations'>United Nations</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#IntergovernmentalPanelOnClimateChange'>Intergovernmental Panel on Climate Change</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanCommission'>European Commission</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#CUTSInternational'>CUTS International</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InclusionInternational'>Inclusion International</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#OECDEconomicsDepartment'>Economics Department</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#GlobalFundToFightAIDSTuberculosisAndMalaria'>Global Fund to Fight AIDS, Tuberculosis and Malaria</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#CommonFundForCommodies'>Common Fund for Commodies</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InternationalDevelopmentEvaluationAssociation'>International Development Evaluation Association</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#BRIDGE'>BRIDGE</organisation>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T1929'>food production</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T646'>economic growth</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T1501'>land</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2279'>measurement</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T295'>farmers</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T1544'>agricultural production</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T5537'>greenhouse gas emissions</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T3317'>water</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T810'>natural resources</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4898'>climate change</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T5611'>green growth strategy</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4549'>production</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T33'>food</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4478'>agriculture</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T5246'>sustainable growth</subject>
+  </annotation>
+</enrichment>

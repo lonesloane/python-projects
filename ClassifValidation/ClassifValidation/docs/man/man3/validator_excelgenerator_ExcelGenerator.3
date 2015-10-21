@@ -1,0 +1,328 @@
+.TH "validator.excelgenerator.ExcelGenerator" 3 "Fri Dec 5 2014" "ClassifValidation" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+validator.excelgenerator.ExcelGenerator \- 
+.SH SYNOPSIS
+.br
+.PP
+.PP
+Inherits object\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "def \fB__init__\fP"
+.br
+.ti -1c
+.RI "def \fBget_list_csv_validation_files\fP"
+.br
+.ti -1c
+.RI "def \fBget_list_xls_validation_files\fP"
+.br
+.ti -1c
+.RI "def \fBprocess\fP"
+.br
+.ti -1c
+.RI "def \fBget_latest_xls\fP"
+.br
+.ti -1c
+.RI "def \fBget_latest_csv\fP"
+.br
+.ti -1c
+.RI "def \fBinsert_missing_correct\fP"
+.br
+.ti -1c
+.RI "def \fBfill_values\fP"
+.br
+.ti -1c
+.RI "def \fBbuild_excel_file\fP"
+.br
+.in -1c
+.SS "Static Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "def \fBfill_default_values\fP"
+.br
+.ti -1c
+.RI "def \fBis_row_empty\fP"
+.br
+.ti -1c
+.RI "def \fBis_row_in_sheet\fP"
+.br
+.ti -1c
+.RI "def \fBget_previous_values\fP"
+.br
+.ti -1c
+.RI "def \fBbuild_format_annotation_sheet\fP"
+.br
+.ti -1c
+.RI "def \fBbuild_report_worksheet\fP"
+.br
+.in -1c
+.SS "Public Attributes"
+
+.in +1c
+.ti -1c
+.RI "\fBworking_folder\fP"
+.br
+.ti -1c
+.RI "\fBcorpus_folder\fP"
+.br
+.ti -1c
+.RI "\fBcsv_validation_files\fP"
+.br
+.ti -1c
+.RI "\fBxls_validation_files\fP"
+.br
+.in -1c
+.SS "Static Public Attributes"
+
+.in +1c
+.ti -1c
+.RI "int \fBFILE\fP = 0"
+.br
+.ti -1c
+.RI "int \fBMANUAL_ONLY\fP = 1"
+.br
+.ti -1c
+.RI "int \fBMANUAL_CORRECT\fP = 2"
+.br
+.ti -1c
+.RI "int \fBCOMMON\fP = 3"
+.br
+.ti -1c
+.RI "int \fBCOMMON_CORRECT\fP = 4"
+.br
+.ti -1c
+.RI "int \fBCOMMON_INCORRECT\fP = 5"
+.br
+.ti -1c
+.RI "int \fBTEMIS_ONLY\fP = 6"
+.br
+.ti -1c
+.RI "int \fBTEMIS_CORRECT\fP = 7"
+.br
+.ti -1c
+.RI "int \fBTEMIS_INCORRECT\fP = 8"
+.br
+.ti -1c
+.RI "int \fBCRLF\fP = 9"
+.br
+.ti -1c
+.RI "int \fBMISSED\fP = 0"
+.br
+.ti -1c
+.RI "int \fBCORRECT\fP = 1"
+.br
+.ti -1c
+.RI "int \fBINCORRECT\fP = 2"
+.br
+.ti -1c
+.RI "int \fBPRECISION\fP = 3"
+.br
+.ti -1c
+.RI "int \fBRECALL\fP = 4"
+.br
+.ti -1c
+.RI "int \fBFMEASURE\fP = 5"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+
+.PP
+.nf
+ExcelGenerator:
+
+.fi
+.PP
+ 
+.SH "Constructor & Destructor Documentation"
+.PP 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.__init__ (self, working_folder, corpus_folder)"
+
+.PP
+.nf
+__init__:
+
+.fi
+.PP
+ 
+.SH "Member Function Documentation"
+.PP 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.build_excel_file (self, csv_file, xls_filepath = \fC''\fP, xls_filenumber = \fC0\fP)"
+
+.PP
+.nf
+build_excel_file:
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.build_format_annotation_sheet (sheet_annotations)\fC [static]\fP"
+
+.PP
+.nf
+build_format_annotation_sheet:
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.build_report_worksheet (sheet_report)\fC [static]\fP"
+
+.PP
+.nf
+build_report_worksheet:
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.fill_default_values (csvfile, sheetannotations)\fC [static]\fP"
+
+.PP
+.nf
+fill_default_values:
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.fill_values (self, xls_file_path, csv_file, sheet_annotations)"
+
+.PP
+.nf
+fill_values:
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.get_latest_csv (self)"
+
+.PP
+.nf
+get_latest_csv
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.get_latest_xls (self)"
+
+.PP
+.nf
+get_latest_xls:
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.get_list_csv_validation_files (self, working_folder, corpus_name)"
+
+.PP
+.nf
+get_list_csv_validation_files:
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.get_list_xls_validation_files (self, working_folder, corpus_name)"
+
+.PP
+.nf
+get_list_xls_validation_files:
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.get_previous_values (previous_workbook, cell_values)\fC [static]\fP"
+
+.PP
+.nf
+get_previous_values:
+Scan previous_workbook to find a row matching the given cell_values
+Note: only based on annotation values, not on validation values
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.insert_missing_correct (self, sheet_annotations, previous_workbook, csv_file, current_filename, current_row_index)"
+
+.PP
+.nf
+insert_missing_correct:
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.is_row_empty (row)\fC [static]\fP"
+
+.PP
+.nf
+is_row_empty:
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.is_row_in_sheet (previousrow, csvfile)\fC [static]\fP"
+
+.PP
+.nf
+is_row_in_sheet:
+
+.fi
+.PP
+ 
+.SS "def validator\&.excelgenerator\&.ExcelGenerator\&.process (self)"
+
+.PP
+.nf
+process:
+
+.fi
+.PP
+ 
+.SH "Member Data Documentation"
+.PP 
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.COMMON = 3\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.COMMON_CORRECT = 4\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.COMMON_INCORRECT = 5\fC [static]\fP"
+
+.SS "validator\&.excelgenerator\&.ExcelGenerator\&.corpus_folder"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.CORRECT = 1\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.CRLF = 9\fC [static]\fP"
+
+.SS "validator\&.excelgenerator\&.ExcelGenerator\&.csv_validation_files"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.FILE = 0\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.FMEASURE = 5\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.INCORRECT = 2\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.MANUAL_CORRECT = 2\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.MANUAL_ONLY = 1\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.MISSED = 0\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.PRECISION = 3\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.RECALL = 4\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.TEMIS_CORRECT = 7\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.TEMIS_INCORRECT = 8\fC [static]\fP"
+
+.SS "int validator\&.excelgenerator\&.ExcelGenerator\&.TEMIS_ONLY = 6\fC [static]\fP"
+
+.SS "validator\&.excelgenerator\&.ExcelGenerator\&.working_folder"
+
+.SS "validator\&.excelgenerator\&.ExcelGenerator\&.xls_validation_files"
+
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for ClassifValidation from the source code\&.

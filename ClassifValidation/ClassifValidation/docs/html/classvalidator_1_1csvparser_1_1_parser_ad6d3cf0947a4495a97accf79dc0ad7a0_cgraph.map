@@ -1,0 +1,12 @@
+<map id="validator.csvparser.Parser.parse_tags" name="validator.csvparser.Parser.parse_tags">
+<area shape="rect" id="node2" href="$classvalidator_1_1csvparser_1_1_parser.html#a36f09bce044b07dca815bf224d9aa4de" title="validator.csvparser.Parser.parse\l_manual_tags" alt="" coords="308,15,519,57"/>
+<area shape="rect" id="node6" href="$classvalidator_1_1csvparser_1_1_parser.html#a638cc2730bba6f2955ee79f6a1dc357f" title="validator.csvparser.Parser.parse\l_temis_tags" alt="" coords="308,91,519,133"/>
+<area shape="rect" id="node10" href="$classvalidator_1_1csvparser_1_1_parser.html#a401a15b85421a52686069b70c2bc77cb" title="validator.csvparser.Parser.write_csv" alt="" coords="296,157,531,184"/>
+<area shape="rect" id="node11" href="$classvalidator_1_1csvparser_1_1_parser.html#acbfeca4ff7d6d619df0984433d9e48ce" title="validator.csvparser.Parser.build\l_csv_line" alt="" coords="585,201,791,242"/>
+<area shape="rect" id="node3" href="$classvalidator_1_1csvparser_1_1_parser.html#a18d71cee2a770d2aaa638def988c809b" title="validator.csvparser.Parser.concat\l_manual_tags" alt="" coords="579,5,797,46"/>
+<area shape="rect" id="node4" href="$classvalidator_1_1csvparser_1_1_parser.html#acc7489dcaee88dec584d31c946d0f9ef" title="validator.csvparser.Parser.clean\l_manual_types" alt="" coords="858,5,1067,46"/>
+<area shape="rect" id="node5" href="$classvalidator_1_1csvparser_1_1_parser.html#a4e258b085db0778fad754a65b34ddc11" title="validator.csvparser.Parser.clean_tag" alt="" coords="845,77,1080,104"/>
+<area shape="rect" id="node7" href="$classvalidator_1_1csvparser_1_1_parser.html#ab1c50a4a1e036a43062741f690ee0ccb" title="validator.csvparser.Parser.get\l_manualtags_forfile" alt="" coords="590,70,786,111"/>
+<area shape="rect" id="node8" href="$classvalidator_1_1csvparser_1_1_parser.html#ac221621ab1c6afa942b4bd7baa147fa1" title="validator.csvparser.Parser.concat\l_temis_tags" alt="" coords="579,135,797,177"/>
+<area shape="rect" id="node9" href="$classvalidator_1_1csvparser_1_1_parser.html#a6b102086d8c1404ba8616fd9d4d5c376" title="validator.csvparser.Parser.clean\l_temis_types" alt="" coords="858,135,1067,177"/>
+</map>

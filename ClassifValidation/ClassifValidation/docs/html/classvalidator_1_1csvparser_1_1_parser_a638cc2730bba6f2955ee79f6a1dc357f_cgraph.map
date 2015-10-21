@@ -1,0 +1,6 @@
+<map id="validator.csvparser.Parser.parse_temis_tags" name="validator.csvparser.Parser.parse_temis_tags">
+<area shape="rect" id="node2" href="$classvalidator_1_1csvparser_1_1_parser.html#ab1c50a4a1e036a43062741f690ee0ccb" title="validator.csvparser.Parser.get\l_manualtags_forfile" alt="" coords="275,5,471,46"/>
+<area shape="rect" id="node3" href="$classvalidator_1_1csvparser_1_1_parser.html#ac221621ab1c6afa942b4bd7baa147fa1" title="validator.csvparser.Parser.concat\l_temis_tags" alt="" coords="265,70,482,111"/>
+<area shape="rect" id="node4" href="$classvalidator_1_1csvparser_1_1_parser.html#a6b102086d8c1404ba8616fd9d4d5c376" title="validator.csvparser.Parser.clean\l_temis_types" alt="" coords="543,41,753,82"/>
+<area shape="rect" id="node5" href="$classvalidator_1_1csvparser_1_1_parser.html#a4e258b085db0778fad754a65b34ddc11" title="validator.csvparser.Parser.clean_tag" alt="" coords="531,107,765,133"/>
+</map>

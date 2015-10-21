@@ -1,0 +1,46 @@
+<enrichment>
+  <annotation cartridgeName='Metadata' annotationDate='2014-07-18 06:00:27' file='[e:\Corpora\_Golden_corpora\__Test\EN-9789264099906-2303031e.pdf]'>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#France'>France</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Paris'>Paris</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#CzechRepublic'>Czech Republic</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthEastEurope'>Southeast Europe</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#EconomiesInTransition'>Economies in transition</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Spain'>Spain</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Greece'>Greece</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand'>New Zealand</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Ottawa'>Ottawa</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#NonOECDCountries'>Non-OECD countries</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries'>OECD countries</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates'>United States</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Switzerland'>Switzerland</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovakia'>Slovak Republic</coverage>
+    <coverage uri='http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom'>United Kingdom</coverage>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#ConcernWorldwide'>Concern Worldwide</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#OrganisationForEconomicCoOperationAndDevelopment'>Organisation for Economic Co-operation and Development</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#ClimateActionNetwork'>Climate Action Network</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InclusionInternational'>Inclusion International</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#BRIDGE'>BRIDGE</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#WomenInDevelopmentEurope'>Women in Development Europe</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#InternationalDevelopmentEvaluationAssociation'>International Development Evaluation Association</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanCommunities'>European Communities</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#EuropeanCommission'>European Commission</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#UnitedNations'>United Nations</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#CommonFundForCommodies'>Common Fund for Commodies</organisation>
+    <organisation uri='http://kim.oecd.org/Taxonomy/Organisations#AfricanUnion'>African Union</organisation>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4917'>electronic commerce</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2977'>offices</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T112'>international agreements</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T1913'>products</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T3613'>reports</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4714'>conventions</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T655'>income</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2808'>contracting</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2625'>contracts</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T913'>enterprises</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T1023'>state</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T4619'>articles</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T2477'>tax agreements</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T835'>business</subject>
+    <subject uri='http://kim.oecd.org/Taxonomy/Topics#T5746'>permanent establishment</subject>
+  </annotation>
+</enrichment>

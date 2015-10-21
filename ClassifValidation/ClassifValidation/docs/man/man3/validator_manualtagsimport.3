@@ -1,0 +1,46 @@
+.TH "validator.manualtagsimport" 3 "Fri Dec 5 2014" "ClassifValidation" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+validator.manualtagsimport \- 
+.SH SYNOPSIS
+.br
+.PP
+.SS "Functions"
+
+.in +1c
+.ti -1c
+.RI "def \fBcopy_csvfile_to_corpus_folder\fP"
+.br
+.RI "\fICopies the annotation file to the corresponding corpus folder\&. \fP"
+.ti -1c
+.RI "def \fBmain\fP"
+.br
+.RI "\fIModule entry point\&. \fP"
+.in -1c
+.SH "Function Documentation"
+.PP 
+.SS "def validator\&.manualtagsimport\&.copy_csvfile_to_corpus_folder (manualtags_folder, csv_file, outputFolder)"
+
+.PP
+Copies the annotation file to the corresponding corpus folder\&. 
+.PP
+\fBParameters:\fP
+.RS 4
+\fImanualtags_folder\fP Path where the manual annotations files are stored 
+.br
+\fIcsv_file\fP Name of the annotation file\&. From this name, the corpus is extracted\&. For example: \fCTMX to CSV_Agriculture_food_and_fisheries\&.csv\fP gives \fC_Agriculture_food_and_fisheries\fP 
+.br
+\fIoutputFolder\fP Destination folder 
+.RE
+.PP
+
+.SS "def validator\&.manualtagsimport\&.main ()"
+
+.PP
+Module entry point\&. Loops through all available csv file in the folder \fCmanualTagsFolder\fP and copies to the folder \fCoutputFolder\fP
+.PP
+Remember to update the \fCconfig\&.ini\fP file accordingly\&. 
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for ClassifValidation from the source code\&.
